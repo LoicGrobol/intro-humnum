@@ -33,7 +33,7 @@ jobs:
           install.packages(c("rmarkdown", "revealjs"))
         shell: Rscript {0}
 
-      - Create build dir
+      - name: Create the build dir
         run: |
           mkdir _build
       - name: Build site
