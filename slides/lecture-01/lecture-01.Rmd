@@ -21,7 +21,7 @@ output:
 - Loïc Grobol (il/iel) [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
 - PHILLIA / MoDyCo (Bâtiment Rémond, 5ème)
 - *Office hours* le mardi après-midi, n'hésitez pas à passer y compris sans rendez-vous (mais je
-  préfère si vous m'envoyer un mail pour me prévenir)
+  préfère si vous m'envoyez un mail pour me prévenir)
 - De manière générale, n'hésitez pas à m'écrire
 
 ## Et vous ?
