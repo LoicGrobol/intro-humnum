@@ -33,7 +33,7 @@ output:
 # Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
-- **Où** ???
+- **Où** Salle 200, bâtiment Paul Ricœur
 - **Quand** 12 séances, les mardis de 10:30 à 12:00, du 14/09 au 14/12
   - Voir [le calendrier de
     l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire-2021-2022-1018180.kjsp)
@@ -103,7 +103,7 @@ humanités numériques.
 - Choix méthodologiques
 - Avis personnels (points positifs et négatifs)
 
-Voir ??? pour plus de détails et des suggestions de projets
+Voir [les consignes](projets.md) pour plus de détails et des suggestions de projets
 
 ## 2. Invention
 
