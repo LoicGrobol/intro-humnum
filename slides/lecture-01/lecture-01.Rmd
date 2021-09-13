@@ -1,0 +1,311 @@
+---
+title: "Humanités Numériques"
+subtitle: "Cours 1 : Introduction"
+author: Loïc Grobol
+date: 2021-09-14
+lang: fr-FR
+output:
+  revealjs::revealjs_presentation:
+    css: "../reveal_slides_style.css"
+    theme: white
+    highlight: pygments
+    reveal_options:
+      slideNumber: true
+      progress: true
+---
+
+[comment]: <> "LTeX: language=fr"
+
+# Bonjour
+
+- Loïc Grobol (il/iel) [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
+- PHILLIA / MoDyCo (Bâtiment Rémond, 5ème)
+- *Office hours* le mardi après-midi, n'hésitez pas à passer y compris sans rendez-vous (mais je
+  préfère si vous m'envoyez un mail pour me prévenir)
+- De manière générale, n'hésitez pas à m'écrire
+
+## Et vous ?
+
+- Sondage très rapide : <https://lstu.stemy.me/sa6kpSNV> [^longpollurl]
+
+[^longpollurl]: <https://framaforms.org/composition-du-cours-humanites-numeriques-1631014848>
+
+# Infos pratiques
+
+- **Quoi** « Humanités Numériques » 4L3SC01P
+- **Où** Salle 200, bâtiment Paul Ricœur
+- **Quand** 12 séances, les mardis de 10:30 à 12:00, du 14/09 au 14/12
+  - Voir [le calendrier de
+    l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire-2021-2022-1018180.kjsp)
+    pour les dates de vacances.
+
+→ Travail sur machine fréquent, amener si possible un PC portable
+
+## Liens
+
+- La page du cours (slides, documents, nouvelles, consignes…)
+  - → <https://loicgrobol.github.io/intro-humnum>
+- Le dépôt GitHub (code source, compléments et historique)
+  - → <https://github.com/LoicGrobol/intro-humnum>
+
+# Humanités numériques
+
+Grossièrement :
+
+- **Humanités** : lettres classiques, lettres modernes et une partie vague des sciences humaines et
+  sociales
+  - En réalité peu de disciplines des LSHS ne sont pas concernées.
+- **Numérique** : systèmes informatiques et les informations qu'ils manipulent
+  - Ça énerve les puristes 😈
+
+## Un exemple : Venice Time Machine
+
+<https://www.rts.ch/play/tv/redirect/detail/6265268>
+
+## Ce cours
+
+- Histoire des humanités numériques
+- Réflexions sur les notions et les pratiques en humanités numériques
+- Exemples pratiques
+
+**Objectifs** :
+
+- Définir et interroger le domaine, les méthodes et outils
+- Repérer les enjeux des humanités numériques
+- Mettre en pratique ces réflexions pour des études simples
+
+# *I know it when I see it*
+
+- [Édition numérique et critique de l'encyclopédie](http://enccre.academie-sciences.fr/encyclopedie/)
+- [ArkeoGIS](https://arkeogis.org/examples-2/)
+- Projets [Transcrire](https://transcrire.huma-num.fr/) et [eScriptorium](https://ephenum.hypotheses.org/1412)
+- [Corpus 88milSMS](http://88milsms.huma-num.fr/index.html)
+- [Plateforme COCOON](https://cocoon.huma-num.fr/exist/crdo/)
+
+# Définition : première ébauche
+
+[Journal officiel du 09/07/2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038736904) :
+
+> Domaine de recherche et d’enseignement au croisement de l’informatique et des lettres, des arts,
+> des sciences humaines et des sciences sociales, visant à produire et à partager des savoirs, des
+> méthodes et de nouveaux objets de connaissance à partir d’un corpus de données numériques.
+
+## Questions
+
+- Est-ce que c'est satisfaisant ?
+- Est-ce que ce n'est pas trop meta ?
+- Nouveau domaine ou évolution des pratiques et des méthodes ?
+
+# Le manifeste des *digital humanities*
+
+---
+
+<div style= "float:right;position:relative;">
+![L'affiche officielle du manifeste des digital humanities: texte intégral sur deux colonnes, titre
+centré en rouge et noir et « rejoignez nous ! » dans le coin inférieur
+droit](pics/affiche_manifeste.png){width=50%}
+</div>
+
+---
+
+Texte collectif, publié à l'issue du premier ThatCamp en 2010, édité par Pierre Mounier.
+
+Publié en intégralité dans le [Journal des
+Anthropologues](https://journals.openedition.org/jda/3652) (accompagné d'une courte introduction qui
+vaut la lecture)
+
+## Définition
+
+> 1\. Le tournant numérique pris par la société modifie et
+> interroge les conditions de production et de diffusion des
+> savoirs.
+
+---
+
+Périmètre du domaine et positionnement épistémologique :
+
+> 2\. Pour nous, les *digital humanities* concernent l’ensemble
+> des Sciences humaines et sociales, des Arts et des Lettres.
+> Les *digital humanities* ne font pas table rase du passé.
+> Elles s’appuient, au contraire, sur l’ensemble des
+> paradigmes, savoir-faire et connaissances propres à ces
+> disciplines, tout en mobilisant les outils et les perspectives
+> singulières du champ du numérique.
+
+---
+
+Définition d’une discipline :
+
+> 3\. Les *digital humanities* désignent une transdiscipline,
+> porteuse des méthodes, des dispositifs et des perspectives
+> heuristiques liés au numérique dans le domaine des
+> Sciences humaines et sociales.
+
+## Situation
+
+> 4\. Nous constatons :
+
+Émergence de centres :
+
+> - que se sont multipliées les expérimentations dans le domaine du numérique en Sciences humaines
+>   et sociales depuis un demi-siècle. Qu’ont émergé, plus récemment, des centres de *digital
+>   humanities*, qui sont tous, à l’heure actuelle, des prototypes ou des lieux d’application
+>   spécifique d’une approche des *digital humanities* ;
+
+---
+
+Contrainte du numérique :
+
+> - que le numérique induit une présence plus forte des contraintes techniques et donc
+>   économiques dans la recherche ; que cette contrainte est une opportunité pour faire
+>   évoluer le travail collectif ;
+
+---
+
+Méthodes :
+
+> - qu’il existe un certain nombre de méthodes éprouvées, inégalement connues et
+>   partagées ;
+
+---
+
+Communautés :
+
+> - qu’existent de multiples communautés particulières issues de l’intérêt pour des pratiques, des
+>   outils ou des objets transversaux divers (encodage de sources textuelles, systèmes d’information
+>   géographique, lexicométrie, numérisation du patrimoine culturel, scientifique et technique,
+>   cartographie du web, fouille de données, 3D, archives orales, arts et littératures numériques et
+>   hypermédiatiques, etc.), ces communautés étant en train de converger pour former le champ des
+>   *digital humanities*.
+
+## Déclaration
+
+Création d'une communauté :
+
+> 5\. Nous, acteurs des *digital humanities*, nous nous
+> constituons en communauté de pratique solidaire,
+> ouverte, accueillante et libre d’accès.
+> 6\. Nous sommes une communauté sans frontières. Nous
+> sommes une communauté multilingue et
+> multidisciplinaire.
+
+---
+
+Positionnement scientifique et politique :
+
+> 7\. Nous avons pour objectifs le progrès de la
+> connaissance, le renforcement de la qualité de la
+> recherche dans nos disciplines, et l’enrichissement du
+> savoir et du patrimoine collectif, au-delà de la seule
+> sphère académique.
+>
+> 8\. Nous appelons à l’intégration de la culture numérique
+> dans la définition de la culture générale du XXIe siècle.
+
+## Orientations
+
+Libre accès par la documentation et interopérabilité :
+
+> 9\. Nous lançons un appel pour l’accès libre aux données et aux métadonnées. Celles-ci doivent
+> être documentées et interopérables, autant techniquement que conceptuellement.
+
+---
+
+Libre accès : par les conditions juridiques :
+
+> 10\. Nous sommes favorables à la diffusion, à la circulation et au libre enrichissement des
+> méthodes, du code, des formats et des résultats de la recherche.
+
+---
+
+Formations, diplômes, compétences :
+
+> 11\. Nous appelons à l’intégration de formations aux *digital humanities* au sein des cursus en
+> Sciences humaines et sociales, en Arts et en Lettres. Nous souhaitons également la création de
+> diplômes spécifiques aux *digital humanitie*s et le développement de formations professionnelles
+> dédiées. Enfin, nous souhaitons que ces compétences soient prises en compte dans les recrutements
+> et les évolutions de carrière.
+
+## Orientations
+
+
+> 12\. Nous nous engageons dans l’édification d’une **compétence collective** s’appuyant
+> sur un vocabulaire commun, compétence collective qui procède du travail de
+> l’ensemble des acteurs. Cette compétence collective a vocation à devenir un bien
+> commun. Elle constitue une opportunité scientifique, mais aussi une opportunité
+> d’insertion professionnelle, dans tous les secteurs.
+
+---
+
+> 13\. Nous souhaitons participer à la définition et à la diffusion de **bonnes pratiques**,
+> correspondant à des besoins disciplinaires et transdisciplinaires identifiés, qui soient
+> évolutives et issues d’un débat puis d’un consensus au sein des communautés
+> concernées. L’ouverture fondamentale des *digital humanities* assure néanmoins une
+> approche pragmatique des protocoles et des visions, qui maintient le droit à la
+> coexistence de méthodes différentes et concurrentes, au profit de l’enrichissement de
+> la réflexion et des pratiques.
+
+---
+
+> 14\. Nous appelons à la construction de **cyberinfrastructures** évolutives répondant à
+> des besoins réels. Ces cyberinfrastructures se construiront de façon itérative,
+> s’appuyant sur le constat de méthodes et d’approches qui font leurs preuves au sein
+> des communautés de recherche.
+
+## Résumé
+
+Acter, définir, orienter
+
+- Définition des humanités numériques
+- Positionnement sur l’émergence d’une discipline
+- Un programme
+
+---
+
+- Place des communautés (une façon de faire de la science ?)
+- Place des « communs »
+  - Relation aux données (mémoire, archive, documents numériques…) : libre accès
+  - Les conditions techniques et juridiques (intéropérabilité, propriété)
+- L’importance de l’accès
+- Méthodes, pratiques (des méthodes et pratiques liées au numérique)
+- Cyberinfrastructures
+
+# Consignes pour le dossier
+
+50% de l'évaluation portera sur un dossier à rendre pour la fin du semestre, soit individuellement,
+soit en groupe (max 3 personnes)
+
+Trois options pour le sujet :
+
+1. Présentation et analyse d’un projet en HN
+2. Invention d'un projet original
+3. Fiche de lecture (travail exclusivement individuel)
+
+## 1. Analyse
+
+Présenter un projet existant en détaillant en quoi il s’inscrit dans une démarche du domaine des
+humanités numériques.
+
+- Fiche d’identité du projet (et/ou du site)
+- Description du projet
+- Choix méthodologiques
+- Avis personnels (points positifs et négatifs)
+
+Voir [les consignes](projets.md) pour plus de détails et des suggestions de projets
+
+## 2. Invention
+
+Présenter/proposer un projet original
+
+- Objectifs
+- Choix qui l'inscrivent dans le domaine des humanités numériques
+  - → Archives, gestion des documents, travail collaboratif…
+
+Peut aussi prendre la forme d’un blog, d’une maquette de bibliothèque virtuelle…
+
+## 3. Fiche de lecture
+
+Choisir l’un des textes de ce recueil : <https://books.openedition.org/oep/226>
+
+Le dossier présentera le texte, le résumera et le discutera en le confrontant
+aux notions vues en cours et à votre propre point de vue.
