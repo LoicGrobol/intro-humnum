@@ -33,13 +33,9 @@ jobs:
           install.packages(c("rmarkdown", "revealjs"))
         shell: Rscript {0}
 
-      - name: Create the build dir
-        run: |
-          mkdir _build
-
       - name: Build site
         run: |
-          rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='../../_build/lecture-01.html')
+          rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='lecture-01.html')
         shell: Rscript {0}
 
       - name: Upload built site artifact
@@ -53,7 +49,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
           target_branch: gh-pages
-          build_dir: _build
+          build_dir: .
           jekyll: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
