@@ -35,7 +35,7 @@ jobs:
 
       - name: Build site
         run: |
-          rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='lecture-01.html')
+          rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='../../lecture-01.html')
         shell: Rscript {0}
 
       # - name: Upload built site artifact
