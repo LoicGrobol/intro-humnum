@@ -1,22 +1,42 @@
 [comment]: <> "LTeX: language=fr"
 
-Consignes projets
-=================
+Projets Humanités Numériques 2021
+=================================
 
-Les dossiers sont à faire soit individuellement soit par groupe de maximum trois personnes.
+## Consignes
 
-Trois options pour le sujet :
+- Projet à rendre le 13 mai 2021 à 19h *au plus tard* par mail à [loic.grobol@parisnanterre.fr](loic.grobol@parisnanterre.fr)
+  - En cas de problème ou de retard, tout est négociable, mais contactez moi **avant**
+- Projet individuel ou par groupe de maximum trois personnes
+  - S'il y a un problème — quel qu'il soit — dans votre groupe, n'hésitez pas à m'en parler
+- De manière générale, si vous avez un problème ou des question sur quoi que ce soit qui a trait à
+  ce projet ou le cours en général, **contactez moi**, ne restez pas coincé⋅e⋅s ou dans l'embarras.
+
+Pour nous faciliter la vie à toustes
+
+- Le compte-rendu doit être au format pdf et le nom de fichier doit être
+  `<Prénom1>_<Nom1>-<Prénom2>_<Nom2>-humnum2021.pdf`, par exemple
+  `Loïc_Grobol-William_Labov-humnum2021.pdf`. À adapter au nombre de personnes dans votre groupe.
+
+  Pour éviter les éventuels problèmes d'encodage ou de plateformes, merci d'utiliser une version de
+  vos noms et prénoms en alphabet latin (toutes mes excuses)
+- Votre rendu doit être contenu entièrement dans une archive au format zip, 7zip ou tar+gz, nommée
+  avec le format `<Prénom1>_<Nom1>-<Prénom2>_<Nom2>-humnum2021.zip` (avec l'extension qui convient)
+
+## Sujets
+
+Trois options :
 
 1. Présentation et analyse d’un projet en humanités numériques
 2. Invention d'un projet original
 3. Fiche de lecture (travail exclusivement individuel)
 
-## 1. Analyse
+### 1. Analyse
 
 Présenter un projet existant en détaillant en quoi il s’inscrit dans une démarche du domaine des
 humanités numériques.
 
-### Proposition de plan
+#### Proposition de plan
 
 1. Fiche d’identité du projet
    - Sujet
@@ -37,7 +57,7 @@ humanités numériques.
    - Qu’est-ce qui est fait pour que les données/documents soient réutilisables ?
 4. Avis personnels (quels avantages, quelles difficultés).
 
-### Propositions de projets à traiter
+#### Propositions de projets à traiter
 
 Vous pouvez (mais ce n'est pas une obligation) piocher un projet à traiter parmi la liste suivante :
 
@@ -62,7 +82,7 @@ Vous pouvez également trouver de nombreux projets sur les annuaires suivants
 - <https://www.huma-num.fr/annuaire-des-sites-web>
 - <https://eadh.org/projects>
 
-## 2. Invention
+### 2. Invention
 
 Présenter/proposer un projet original
 
@@ -72,7 +92,7 @@ Présenter/proposer un projet original
 
 Peut aussi prendre la forme d’un blog, d’une maquette de bibliothèque virtuelle…
 
-## 3. Fiche de lecture
+### 3. Fiche de lecture
 
 Choisir l’un des textes de ce recueil : <https://books.openedition.org/oep/226>
 

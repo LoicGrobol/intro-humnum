@@ -290,7 +290,8 @@ humanités numériques.
 - Choix méthodologiques
 - Avis personnels (points positifs et négatifs)
 
-Voir [les consignes](projets.md) pour plus de détails et des suggestions de projets
+Voir [les consignes](https://loicgrobol.github.io/intro-humnum/doc/projets.html) pour plus de
+détails et des suggestions de projets
 
 ## 2. Invention
 

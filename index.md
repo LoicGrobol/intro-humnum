@@ -12,6 +12,10 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
     pour les dates de vacances.
 - **Contact** Loïc Grobol [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
 
+## Liens
+
+- [Consignes pour les projets](doc/projets.md)
+
 ## Séances
 
 ### 2021-01-28 — Introduction et manifeste des *digital humanities*
