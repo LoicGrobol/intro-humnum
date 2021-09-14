@@ -20,8 +20,9 @@ Pour nous faciliter la vie à toustes
 
   Pour éviter les éventuels problèmes d'encodage ou de plateformes, merci d'utiliser une version de
   vos noms et prénoms en alphabet latin (toutes mes excuses)
-- Votre rendu doit être contenu entièrement dans une archive au format zip, 7zip ou tar+gz, nommée
-  avec le format `<Prénom1>_<Nom1>-<Prénom2>_<Nom2>-humnum2021.zip` (avec l'extension qui convient)
+- S'il concerne plusieurs fichier, votre rendu doit être contenu entièrement dans une archive au
+  format zip, 7zip ou tar+gz, nommée avec le format
+  `<Prénom1>_<Nom1>-<Prénom2>_<Nom2>-humnum2021.zip` (avec l'extension qui convient)
 
 ## Sujets
 
