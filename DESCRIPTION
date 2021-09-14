@@ -9,5 +9,5 @@ Authors@R:
            email = "loic.grobol@gmail.com")
 Description: "Contenus pour le cours « Humanités Numériques » des licences SDL, InfoCom et Humanités de l'Université Paris Nanterre."
 Imports: 
-    rmarkdown
+    rmarkdown,
     revealjs
