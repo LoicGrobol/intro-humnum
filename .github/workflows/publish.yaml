@@ -28,21 +28,19 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@v1
 
-      - name: Install dependencies
-        run: |
-          install.packages(c("rmarkdown", "revealjs"))
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-r-dependencies@v1
+        with:
+          extra-packages: |
+            ggplot2
+            rcmdcheck
+          needs: |
+            revealjs
+            rmarkdown
 
       - name: Build site
         run: |
           rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='../../lecture-01.html')
         shell: Rscript {0}
-
-      # - name: Upload built site artifact
-      #   uses: actions/upload-artifact@v1
-      #   with:
-      #     name: site
-      #     path: _build
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'

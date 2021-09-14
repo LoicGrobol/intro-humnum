@@ -1,0 +1,14 @@
+Package: intro-humnum
+Type: Course Material
+Title: Introduction aux humanités numériques
+Version: 0.0.0
+Authors@R: 
+    person(given = "Loïc",
+           family = "Grobol",
+           role = c("aut", "cre"),
+           email = "loic.grobol@gmail.com")
+Description: ontenus pour le cours « Humanités Numériques » des licences SDL, InfoCom et Humanités de
+l'Université Paris Nanterre.
+Imports: 
+    rmarkdown
+    revealjs
