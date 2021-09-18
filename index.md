@@ -20,7 +20,7 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 ### 2021-01-28 — Introduction et manifeste des *digital humanities*
 
-- [Slides](https://loicgrobol.github.io/intro-humnum/lecture-01.html) (jusqu'à la slide 26)
+- [Slides](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-01.html)
 
 
 ## Licences

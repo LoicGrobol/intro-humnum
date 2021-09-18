@@ -39,8 +39,14 @@ jobs:
 
       - name: Build site
         run: |
-          rmarkdown::render('slides/lecture-01/lecture-01.Rmd',output_file='../../lecture-01.html')
+          for (slide_file in Sys.glob("slides/*/*.Rmd"){
+            rmarkdown::render(slide_file, output_dir='_build/html_slides')
+          }
         shell: Rscript {0}
+      
+      - name: Prepare site structure
+        run: |
+          mv _build/* .
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
