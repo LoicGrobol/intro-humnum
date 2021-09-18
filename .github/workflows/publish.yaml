@@ -39,7 +39,7 @@ jobs:
 
       - name: Build site
         run: |
-          for (slide_file in Sys.glob("slides/*/*.Rmd"){
+          for (slide_file in Sys.glob("slides/*/*.Rmd")){
             rmarkdown::render(slide_file, output_dir='_build/html_slides')
           }
         shell: Rscript {0}
