@@ -9,7 +9,7 @@ Projets Humanités Numériques 2021
   - En cas de problème ou de retard, tout est négociable, mais contactez moi **avant**
 - Projet individuel ou par groupe de maximum trois personnes
   - S'il y a un problème — quel qu'il soit — dans votre groupe, n'hésitez pas à m'en parler
-- De manière générale, si vous avez un problème ou des question sur quoi que ce soit qui a trait à
+- De manière générale, si vous avez un problème ou des questions sur quoi que ce soit qui a trait à
   ce projet ou le cours en général, **contactez moi**, ne restez pas coincé⋅e⋅s ou dans l'embarras.
 
 Pour nous faciliter la vie à toustes
@@ -31,6 +31,10 @@ Trois options :
 1. Présentation et analyse d’un projet en humanités numériques
 2. Invention d'un projet original
 3. Fiche de lecture (travail exclusivement individuel)
+
+Il n'y a pas de limite inférieure ou supérieure à la taille de ces dossiers. À titre indicatif, vous
+pouvez viser 7 pages avec figures et références pour les options 1 et 2 et 1/5 de la
+taille de l'article traité pour l'option 3, mais l'évaluation se fera sur le contenu et non sur le volume.
 
 ### 1. Analyse
 
@@ -97,5 +101,5 @@ Peut aussi prendre la forme d’un blog, d’une maquette de bibliothèque virtu
 
 Choisir l’un des textes de ce recueil : <https://books.openedition.org/oep/226>
 
-Le dossier présentera le texte, le résumera et le discutera en le confrontant
-aux notions vues en cours et à votre propre point de vue.
+Le dossier présentera le texte et éventuellement certains des textes auxquels il se réfère, le
+résumera et le discutera en le confrontant aux notions vues en cours et à votre propre point de vue.
