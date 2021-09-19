@@ -15,7 +15,7 @@ output:
       slideNumber: true
       progress: true
   pdf_document:
-    latex_engine: "lualatex"
+    latex_engine: "xelatex"
 ---
 
 [comment]: <> "LTeX: language=fr"
