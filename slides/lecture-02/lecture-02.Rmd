@@ -14,8 +14,8 @@ output:
     reveal_options:
       slideNumber: true
       progress: true
-  md_document:
-    variant: markdown_github
+  pdf_document:
+    latex_engine: "lualatex"
 ---
 
 [comment]: <> "LTeX: language=fr"
@@ -107,6 +107,11 @@ Le **support** du document :
 
 Lien plus complexe entre ce qui est stocké et ce qui est perçu : à partir d'un même fichier, on peut
 générer plusieurs vues
+
+Par exemple ces slides :
+
+- [Source](https://github.com/LoicGrobol/intro-humnum/blob/main/slides/lecture-02/lecture-02.Rmd)
+- [Pdf](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.pdf)
 
 . . .
 
