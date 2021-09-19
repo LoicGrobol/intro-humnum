@@ -7,3 +7,11 @@ display: block;
 .reveal ol {
 display: block;
 }
+
+.reveal blockquote {
+  width: 90%;
+}
+
+.csl-entry {
+  text-align: left;
+}
