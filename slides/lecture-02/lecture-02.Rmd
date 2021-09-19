@@ -14,6 +14,8 @@ output:
     reveal_options:
       slideNumber: true
       progress: true
+  md_document:
+    variant: markdown_github
 ---
 
 [comment]: <> "LTeX: language=fr"
@@ -103,7 +105,8 @@ Le **support** du document :
 
 ## Le document numérique
 
-Lien plus complexe entre ce qui est stocké et ce qui est perçu : à partir d'un même fichier, on peut générer plusieurs vues
+Lien plus complexe entre ce qui est stocké et ce qui est perçu : à partir d'un même fichier, on peut
+générer plusieurs vues
 
 . . .
 
