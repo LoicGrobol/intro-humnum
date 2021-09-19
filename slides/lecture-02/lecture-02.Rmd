@@ -75,10 +75,10 @@ Est-ce satisfaisant ?
 
 # Pour J-M Salaün et le RTP-doc
 
-> Un document est une **trace** permettant d’interpréter un **événement** passé à partir d’un **contrat de lecture**.
+> Un document est une **trace** permettant d’**interpréter** un **événement passé** à partir d’un
+> **contrat de lecture**.
 > [@salaun2012VuLuSu]
 
-*Lecture* est ici à comprendre au sens large.
 
 . . .
 
@@ -96,14 +96,14 @@ Le **support** du document :
 - Une feuille ou une liasse
 - Un journal, un magazine
 
-## Le document audiovisuel
+## Voir un document audiovisuel
 
 - Pour un document audiovisuel (son, vidéo…), le support n'est pas directement utilisable, mais
   passe par une interprétation.
 - Un document audiovisuel doit être reconstruit par une machine.
 - Implicitement : la reproduction est censée être aussi fidèle que possible à l'original.
 
-## Le document numérique
+## Voir un document numérique
 
 Lien plus complexe entre ce qui est stocké et ce qui est perçu : à partir d'un même fichier, on peut
 générer plusieurs vues
@@ -119,6 +119,98 @@ Par exemple ces slides :
 > des règles de mise en forme permettant une lisibilité partagée entre son concepteur et ses
 > lecteurs  
 > [@pedauque2003DocumentFormeSigne]
+
+# Lu : le contenu
+
+Ce que dit le document, tel qu'il est interprété par ses destinataires
+
+- Informations
+- Contexte
+- Représentations mentales
+
+## Contexte et construction du sens
+
+L'auteurice du document doit fournir suffisament de contexte pour son interprétation et ses
+destinataires intégrer ce contexte pour l'interpréter de la façon prévue.
+
+On ne reçoit pas un document administratif comme un ouvrage documentaire ou une œuvre de fiction.
+
+. . .
+
+Le numérique apporte une nouvelle facette : l'interactivité. En faisant varier les vues (support)
+sur le document, on peut accéder à différentes interprétations.
+
+# Su : la médiation
+
+La production et l'accès à un document est un acte *social*, qui porte une relation entre les
+créateurices d'un document et ses destinataires ainsi que les éventuels intermédiaires.
+
+Cette mise en relation permet la transposition d'évènements passés (connaissance, réflexion
+imagination, émotion…) sur le présent (les états mentaux des destinataires).
+
+# Éléments supplémentaires
+
+Cette définition (voir la source pour plus de détails) a l'intérêt d'être très générale et
+applicable à une grande variété de documents.
+
+Elle peut en revanche être imprécise sur certains points qui recoupent souvent à la fois le vu, le
+lu et le su.
+
+## Structuration des documents
+
+Lien forme – contenu qui conditionne implicitement la transmission pourvu que les conventions soient
+intégrées.
+
+- La structure *physique* : apparence visuelle (colonnes, justification, mise en page mais aussi
+  espaces (!), ponctuation…)
+- La structure *logique* : liée au contenu intellectuel (sections, chapitres… avec titres, thèmes,
+  mots-clés)
+- La structure *générique* : liée au genre, à la convention de communication. Ainsi un article
+  contient toujours une introdroduction, des sections suivant un plan plus ou moins stéréotypé, une
+  conclusion…
+
+## Métadonnées
+
+Des documents qui décrivent (et éventeullement identifient) des documents :
+
+- Auteurices
+- Date
+- Publication
+- Genre
+- …
+
+→ Mêmes impératifs que les documents qu'elles décrivent.
+
+Conditionnent la transmission, l'archivage et la réception.
+
+## Formats
+
+Comment est représenté le document en pratique :
+
+- Standard — interopérable : par qui et comment le document est-il lisible ? Est-il portable ?
+  Est-ce pérenne ?
+  - Standardisations officielles (ISO, Afnor, W3C, Consortium Unicode)
+  - Ou de facto (doc, gif), qui peut devenir officiel (JPG, PDF)
+- Ouvert : les spécifications sont-elles publiées intégralement et librement utilisables ? Sont
+  elles librement utilisables ? Gratuitement ?
+
+---
+
+Pas uniquement le stockage :
+
+Connaissez-vous ces formats : pdf, OpenDocument, HTML, XML, TIFF, PNG, JPEG, gzip, bzip, xz, tar, zip, 7z ?
+
+---
+
+Pas uniquement le stockage :
+
+- Conserver la présentation : PDF, OpenDocument
+- Conserver la structure : HTML, XML
+- Conserver une image
+  - En intégralité : TIFF, PNG
+  - En limitant la taille au prix de l'information (compression destructive) : JPEG
+- Réduire la taille (en général) : gz, bzip, xz
+- Agréger : tar, zip, 7z
 
 # Bibliographie
 
