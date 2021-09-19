@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.19)  19 SEP 2021 21:14
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.19)  19 SEP 2021 21:15
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-02.tex
 
@@ -925,7 +925,7 @@ Here is how much of LuaTeX's memory you used:
  55 glue_spec, 46 attribute_list, 1 write nodes
    avail lists: 1:1,2:1765,3:366,4:95,5:388,6:76,7:5172,8:41,9:305,10:3,11:20
  38337 multiletter control sequences out of 65536+600000
- 69 fonts using 20848855 bytes
+ 69 fonts using 20848931 bytes
  87i,6n,120p,351b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></
 home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></
@@ -933,7 +933,7 @@ home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><
 /home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></h
 ome/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></
 home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on lecture-02.pdf (4 pages, 42126 bytes).
+Output written on lecture-02.pdf (4 pages, 42101 bytes).
 
 PDF statistics: 168 PDF objects out of 1000 (max. 8388607)
  142 compressed objects within 2 object streams
