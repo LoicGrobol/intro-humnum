@@ -27,7 +27,7 @@ Le *document* est une notion centrale en humanités Numériques
 - Le champ voit le jour autour de la numérisation des documents
 - Il concerne une large part de ses problématiques
   - Composition
-  - Archivage 
+  - Archivage
   - Traitement et exploitation
   - Diffusion
 
@@ -166,7 +166,7 @@ intégrées.
 - La structure *logique* : liée au contenu intellectuel (sections, chapitres… avec titres, thèmes,
   mots-clés)
 - La structure *générique* : liée au genre, à la convention de communication. Ainsi un article
-  contient toujours une introdroduction, des sections suivant un plan plus ou moins stéréotypé, une
+  contient toujours une introduction, des sections suivant un plan plus ou moins stéréotypé, une
   conclusion…
 
 ## Métadonnées
@@ -198,7 +198,8 @@ Comment est représenté le document en pratique :
 
 Pas uniquement le stockage :
 
-Connaissez-vous ces formats : pdf, OpenDocument, HTML, XML, TIFF, PNG, JPEG, gzip, bzip, xz, tar, zip, 7z ?
+Connaissez-vous ces formats : pdf, OpenDocument, HTML, XML, TIFF, PNG, JPEG, gzip, bzip, xz, tar,
+zip, 7z ?
 
 ---
 
