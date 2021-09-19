@@ -2,6 +2,8 @@
 title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 ---
 
+[comment]: <> "LTeX: language=fr"
+
 ## Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
@@ -25,7 +27,6 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 ### 2021-09-21 — Cours 2 : Documents Numériques
 
 - [Slides](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.html)
-
 
 ## Licences
 
