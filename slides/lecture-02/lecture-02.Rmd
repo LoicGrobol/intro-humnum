@@ -190,7 +190,7 @@ Comment est représenté le document en pratique :
 - Standard — interopérable : par qui et comment le document est-il lisible ? Est-il portable ?
   Est-ce pérenne ?
   - Standardisations officielles (ISO, Afnor, W3C, Consortium Unicode)
-  - Ou de facto (doc, gif), qui peut devenir officiel (JPG, PDF)
+  - Ou de facto (doc, gif), qui peut devenir officiel (JPEG, PDF)
 - Ouvert : les spécifications sont-elles publiées intégralement et librement utilisables ? Sont
   elles librement utilisables ? Gratuitement ?
 
@@ -212,6 +212,7 @@ Pas uniquement le stockage :
   - En limitant la taille au prix de l'information (compression destructive) : JPEG
 - Réduire la taille (en général) : gz, bzip, xz
 - Agréger : tar, zip, 7z
+- Encodage vs. conteneur : AV1 vs. Matroska
 
 # Bibliographie
 

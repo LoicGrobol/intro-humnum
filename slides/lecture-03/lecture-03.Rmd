@@ -1,0 +1,30 @@
+---
+title: "Humanités Numériques"
+subtitle: "Cours 3 : Linguistique et Informatique"
+author: Loïc Grobol
+date: 2021-09-21
+lang: fr-FR
+bibliography: "../../biblio.bib"
+csl: "../association-for-computational-linguistics.csl"
+output:
+  revealjs::revealjs_presentation:
+    css: "../reveal_slides_style.css"
+    theme: white
+    highlight: pygments
+    reveal_options:
+      slideNumber: true
+      progress: true
+  pdf_document:
+    latex_engine: "lualatex"
+---
+
+[comment]: <> "LTeX: language=fr"
+
+# L'*index thomiscus*
+
+
+
+# Bibliographie
+
+::: {#refs}
+:::
