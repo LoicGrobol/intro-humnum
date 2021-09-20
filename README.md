@@ -28,7 +28,9 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
   doc](https://bookdown.org/yihui/rmarkdown/compile.html) pour plus d'informations. À défaut, on
   peut également les lire comme des fichiers markdown standards.
 
-## Licences <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
+## Licences
+
+[![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 Copyright © 2021 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com)
 
@@ -45,6 +47,10 @@ Le texte intégral de cette licence est disponible à
 
 Les fichiers suivants ne sont pas distribués selon les termes de la licence Creative Commons
 Attribution 4.0 International
+
+#### CC BY-NC-ND
+
+[![CC BY NC ND Licence badge](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 - [`affiche_manifeste.png`](slides/lecture-01/pics/affiche_manifeste.png) est issu [du site du
   ThatCamp Paris](https://tcp.hypotheses.org/443) et est soumis à la licence [CC-BY-NC-ND
