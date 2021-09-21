@@ -79,7 +79,7 @@ Est-ce satisfaisant ?
 > **contrat de lecture**.
 > [@salaun2012VuLuSu]
 
-. . .
+---
 
 Cette définition issue de « Vu, lu, su. Les architectes de l'information face au monopole du web »
 [@salaun2012VuLuSu] s'appuie sur les travaux du réseau RTP-doc
