@@ -100,7 +100,7 @@ Grossièrement :
 
 ---
 
-<div style= "float:right;position:relative;">
+<div style= "float:center;position:relative;">
 ![L'affiche officielle du manifeste des digital humanities: texte intégral sur deux colonnes, titre
 centré en rouge et noir et « rejoignez nous ! » dans le coin inférieur
 droit](pics/affiche_manifeste.png){width=50%}
