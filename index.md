@@ -26,7 +26,8 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 ### 2021-09-21 — Documents Numériques
 
-- [Slides](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.html)
+- [Slides 1](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.html)
+- [Slides 2](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-03.html)
 
 ## Licences
 

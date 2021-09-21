@@ -56,8 +56,8 @@ Est-ce satisfaisant ?
 ## Texte et document
 
 - Plusieurs définitions variables selon les époques et selon les disciplines et les domaines : en
-  droit, en histoire, en informatique, en documentation...
-- Historiquement la conjonction de deux éléments : un **support** matériel et un **contenu**
+  droit, en histoire, en informatique, en documentation…
+- Historiquement la conjonction de deux éléments : un **support** matériel et un **contenu**
   informationnel.
 - Définition actualisée : un « ensemble cohérent, stable et fini d’informations structurées et
   lisibles, à usage défini, quel qu’en soit le support »
@@ -78,7 +78,6 @@ Est-ce satisfaisant ?
 > Un document est une **trace** permettant d’**interpréter** un **événement passé** à partir d’un
 > **contrat de lecture**.
 > [@salaun2012VuLuSu]
-
 
 . . .
 
