@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 3 : Linguistique et Informatique"
 author: Loïc Grobol
-date: 2021-09-21
+date: 2021-09-28
 lang: fr-FR
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
@@ -71,7 +71,6 @@ Roberto Busa (1913 — 2011) était un prêtre jésuite italien spécialiste
 ![Roberto Busa, un homme blanc d'un certain âge en tenue ecclésiastique, pris en photo devant une étagère remplie de grands volumes : l'*index thomiscus*](pics/Roberto_busa_e_index_thomisticus.jpg)
 </div>
 
-
 ## La naissance des humanités numériques
 
 On identifie souvent l'*index thomiscus* comme le premier travail d'humanités numériques mené à
@@ -83,29 +82,71 @@ influence considérable sur le développement des HN et du TAL en montrant que c
 
 [Quelques images du projet](http://melissaterras.blogspot.com/2013/10/for-ada-lovelace-day-father-busas.html)
 
-# Roberto•Busa : la concordance automatique
+# La concordance automatique
 
 Revenons sur la thèse de Busa
 
 > Le lecteur ne doit pas simplement attacher ses propres significations aux mots
 > qu’il lit, mais il doit aussi rechercher les significations que les mots ont pour
-> l’auteur lui-même. Par ailleurs tous les mots fonctionnels et grammaticaux (qui
-> dans mon esprit ne sont pas vides du tout mais au contraire très riche sur le
-> plan philosophique) manifestent la logique la plus profonde de l’être qui génère
-> les structures de base du discours humain ». [@busa1980AnnalsHumanitiesComputing]
+> l’auteur lui-même.
+
+Elle reflète entre autres les idées dites du *tournant linguistique* en philosophie.
 
 ---
 
-- L’informatique pour embrasser une masse de données
+> Par ailleurs tous les mots fonctionnels et grammaticaux (qui dans mon esprit ne sont pas vides du
+> tout mais au contraire très riche sur le plan philosophique) manifestent la logique la plus
+> profonde de l’être qui génère les structures de base du discours humain ».
+> [@busa1980AnnalsHumanitiesComputing]
+
+---
+
+## Introduction de l'informatique
+
+- Comme outil pour embrasser une masse de données
 - Mais surtout pour conduire l’analyse à un niveau jusque-là inaccessible. Il ne s’agit plus
   seulement d’interpréter le texte, mais aussi de l’observer comme objet.
 - La rencontre des humanités avec l’industrie
+
+---
+
 - La mise en chiffre du monde
   - Dans la suite de Shannon, Turing : le calcul computationnel, la statistique
   - La statistique (utilisée comme politique) devient un langage de représentation de la réalité
     sociale [@desrosieres2010PolitiqueGrandsNombres].
 - Développement de l’étude informatique des textes.
 
+# Numériser pour compter
+
+La notion de statistiques textuelles est antérieure à Busa et se développe parallèlement à ses
+travaux [@leon2014DataTurnPremiers,@lebart1994StatistiqueTextuelle].
+
+- Jean-Baptiste Estoup (1868 – 1950), Georges Zipf (1902 – 1950) ou Gustav Herdan (1897 – 1968), sur
+  les propriétés statistiques des lexiques
+- Charles Muller (1909 — 2015), Pierre Guiraud (1912 – 1983), Étienne Brunet (1936) explorent les
+  applications des statistiques lexicales et textuelles entre autres à la stylistique
+
+---
+
+On parle autour des années 80 de *lexicométrie*, puis autour des années 2000 de *textométrie*, pour
+rendre plus explicite qu'on ne se limite pas au simple lexique [@pincemin2020TextometrieQuestion].
+
+Ces évolutions vont de pair avec
+
+- La croissance incessante des capacités matérielles de traitement (informatique)
+- La généralisation du stockage numérique des documents (numérisés et créés numériquement)
+- L'avènement depuis le début du 20ème siècle des méthodes quantitatives en LSHS.
+
+# Les plateformes d'analyse
+
+L'intérêt grandissant pour les méthodes de statistiques textuelles va aussi de pair avec la création
+de logiciels permettant à des non-informaticien⋅ne⋅s de les mettre en œuvre :
+
+- [Hyperbase](http://hyperbase.unice.fr) (1989)
+- [Lexico](http://lexi-co.com) (1994)
+- [Le Trameur](http://www.tal.univ-paris3.fr/trameur/) (2008)
+- [TXM](http://textometrie.ens-lyon.fr) (2010) [@heiden2010TXMPlateformeLogicielle]
+- …
 
 # Bibliographie
 
