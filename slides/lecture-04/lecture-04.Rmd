@@ -23,7 +23,7 @@ output:
 Librement adapté du [tutoriel d'Aurélien
 Berra](https://github.com/aurelberra/voyant_tools/blob/2a84546d345f0300ab1e660c5cd9ac26acb23ffb/tutorial/voyant_tools_intro_fr.md)
 
-# Introduction[Logo de Voyant Tools](pics/voyant-logo_0.png)
+# Introduction ![Logo de Voyant Tools](pics/voyant-logo_0.png)
 
 [Voyant Tools](http://voyant-tools.org/) est un environnement d’analyse, de lecture et de
 visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedInterpretation]
@@ -31,7 +31,6 @@ visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedI
 ---
 
 ![Vue par défaut de Voyant Tools](pics/voyant_skin.png)
-
 
 # Accéder à Voyant Tools
 
@@ -41,11 +40,15 @@ visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedI
   - Pas de partages de données (droits d'auteur, confidentialité)
   - Plus rapide, plus facile (pas de partage de ressources et contrôle)
 
+---
+
 <div style= "float:center;position:relative;">
 ![Page d’accueil de Voyant Tools](pics/voyant_home.png)
 </div>
 
 # À propos de Voyant Tools
+
+[comment]: <> "LTeX: language=en"
 
 > Voyant Tools is a web-based text analysis, reading and visualization environment. Developed by a
 > small team of digital humanities scholars led by Stéfan Sinclair and Geoffrey Rockwell, Voyant
@@ -55,45 +58,101 @@ visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedI
 > ([*Readme*](https://github.com/sgsinclair/Voyant/blob/master/README.md) de l’entrepôt GitHub
 > contenant le code de Voyant Tools)
 
+[comment]: <> "LTeX: language=fr"
 
 ## Historique du projet
 
-Depuis les années 1990, *Humanities Computing* et *Digital Humanities* se sont fortement développés et structurés au Canada (voyez, entre mille exemples, un texte rétrospectif de Ian Lancashire sur le site de la société canadienne des humanités numériques, [CSDH/SCHN](http://csdh-schn.org/2017/05/31/csdhschn-beginnings-reflections-by-ian-lancashaire/) et le Text Analysis Portal for Research, [TAPoR](http://tapor.ca/home)).
-
-Dans les années 2000, Stéfan Sinclair développe le logiciel HyperPo dans le cadre de ses recherches doctorales sur l’Oulipo.
-
-À partir de 2008 environ, la plateforme est ouverte sous le nom Voyeur, puis Voyant. Elle recourt notamment aux technologies Flash et Java.
-
-En 2015 paraît Voyant 2.0, qui comporte une réécriture en HTML 5, améliore les filtres de requête et introduit des outils fondés sur le calcul de proximité et les séquences d’éléments, ou n-grammes.
+- Développement des humanités numériques au Canada depuis les années 1990
+- Années 2000 : Stéfan Sinclair développe le logiciel HyperPo dans le cadre de ses recherches
+  doctorales sur l’Oulipo.
+- Environ 2006 la plateforme est ouverte sous le nom Voyeur, puis Voyant. Elle recourt notamment aux
+  technologies Flash et Java.
+- 2015 : Voyant 2.0, réécrit et amélioré
 
 ## Principes
 
-Voyant Tools repose essentiellement sur un principe d’ouverture. Son code est publié en *open source* et les contributions de toutes sortes sont bienvenues.
+- Logiciel libre
+  - Code distribué publiquement et librement modifiable (licence *copyleft*
+    [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html))
+  - Toutes les contributions sont les bienvenues
+- Objectif : Manipuler, explorer, fouiller les corpus textuels
+  - Interactions rapides et faciles avec
+  - Conviction que la théorie et la pratique sont intimement mêlées.
 
-Manipuler, explorer, fouiller les corpus textuels : l’interaction avec les données – rapide, aisée, voire ludique – est le mot d’ordre, pour apprendre du processus et produire des séries de résultats. Ce parti pris répond à la conviction que la théorie et la pratique sont intimement mêlées. Voyant Tools vise ainsi à montrer « *how analytical tools* are *instantiations of interpretive methods that can be woven closely into other hermeneutical things, like text* » (*Hermeneutica*, p. 4).
+---
 
+[comment]: <> "LTeX: language=fr"
 
-# Voyant Tools et la construction des humanités numériques
+> Analytical tools are instantiations of interpretive methods that can be woven closely into
+> other hermeneutical things, like text [@rockwell2016HermeneuticaComputerAssistedInterpretation]
 
-Il existe une tension entre l’idéal, ou la tentation, de l’outil unique omnipotent et la lente acquisition d’une culture computationnelle qui permet l’usage d’outils spécialisés (encodage, transformation, analyse textuelle, analyse de réseaux, visualisation de données, etc.), leur adaptation, voire leur création. Voyant Tools résout en partie cette tension par sa modularité et son caractère évolutif.
+[comment]: <> "LTeX: language=en"
 
-La prochaine étape importante sera probablement celle des carnets Spyral. Au delà de l’intégration des outils dans le texte, il s’agit de publier des *notebooks* alliant code et commentaire, analyse et argumentation, en acclimatant la tradition du *literate programming* aux sciences humaines et sociales (voir le [poster](http://journalofdigitalhumanities.org/2-3/voyant-notebooks-literate-programming-and-programming-literacy/) programmatique des auteurs, ainsi que les parallèles du projet [Jupyter](http://jupyter.org/) et du [R Markdown](https://rmarkdown.rstudio.com/)). La possibilité d’insérer un outil ou des vues dynamiques dans une page Web va déjà dans ce sens. Voyant Tools est sans doute le type de projets qui nous conduit vers une culture numérique et statistique mieux partagée.
+## Construction des humanités numériques
 
-![Nuage de mots plus ou moins mystérieux](pics/frankenstein_cloud.png)
+- Tension entre
+  - L’idéal de l’outil unique omnipotent
+  - La personalisation des outils pour les adapter aux usages et aux pratiques individuelles
+- Voyant Tools résout en partie cette tension par sa modularité et son caractère évolutif.
 
 # Distances de lecture : une première approche
 
-`Cirrus`. Observez le nuage de mots reproduit ci-dessus et disponible également [dans une vue séparée](https://voyant.tools.huma-num.fr/tool/Cirrus/?corpus=75b440214b14d5402b2d9ab1e0150d17&toolFlow=contexts). Que représente ce nuage, à votre avis ? Parmi ses caractéristiques, lesquelles sont issues d’une quantification du texte ? Tous les mots vous semblent-ils pertinents ? Manque-t-il des mots ? – Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage : changez le nombre de termes pris en compte au moyen du curseur, puis modifiez la liste des mots vides filtrés (ce sont des [*stopwords*](https://github.com/aurelberra/stopwords/blob/master/rationale.md#about-stopwords)) en accédant aux options – l’icône apparaît au survol au-dessus du panneau et est identifiée par l’info-bulle, selon un principe constant de l’interface.
+## Cirrus
 
-Observez maintenant ce [même texte à diverses échelles et au prisme d’autres outils](https://voyant.tools.huma-num.fr/?corpus=75b440214b14d5402b2d9ab1e0150d17).
+<div style= "float:center;position:relative;">
+![Nuage de mots plus ou moins mystérieux](pics/frankenstein_cloud.png)
+</div>
 
-`Termes`/`Terms`. La fondamentale table des fréquences. Avez-vous vu les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur les flèches) ? Connaissiez-vous les *sparklines*, qui résument dans la colonne de droite les tendances des termes au fil du corpus, en indiquant les valeurs minimale, maximale et finale ?
+---
 
-`Lecteur`/`Reader`. Que se passe-t-il si vous survolez un mot, si vous le sélectionnez ? Que représente la frise située sous le texte ? Avez-vous testé les fonctions de requête ?
+Observez le nuage de mots précédent et disponible également à [https://lstu.stemy.me/mary](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Cirrus).
 
-`Contextes`/`Contexts`. L’indispensable concordance (du type Keyword in Context, KWIC). Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ? Un menu vous donne par ailleurs la possibilité de restreindre le corpus à certains documents.
+- Que représente ce nuage, à votre avis ?
+- Parmi ses caractéristique
+  - Lesquelles sont issues d’une quantification du texte ?
+  - Tous les mots vous semblent-ils pertinents ?
+  - Manque-t-il des mots ?
 
+---
+
+Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage :
+
+- Changez le nombre de termes pris en compte au moyen du curseur, 
+- Modifiez la liste des mots vides filtrés en accédant aux options (icône en haut à droite)
+
+## `Termes`/`Terms`
+
+La [table des
+fréquences](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=CorpusTerms)
+
+---
+
+Avec-vous vu :
+
+- Les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur les flèches) ?
+- Les *sparklines*, qui résument dans la colonne de droite les tendances des termes au fil du
+  corpus ?
+
+## Lecteur`/`Reader`
+
+[L'affichage complet](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Reader)
+
+- Que se passe-t-il si vous survolez un mot, si vous le sélectionnez ?
+- Que représente la frise située sous le texte ?
+- Avez-vous testé les fonctions de requête ?
+
+## `Contextes`/`Contexts`
+
+[Le concordancier](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Reader) (du type Keyword in Context, KWIC).
+
+- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ? 
+- Un menu vous donne la possibilité de restreindre le corpus à certains documents.
+
+## Autres outils
+
+<div style= "float:center;position:relative;">
 ![Liste des outils de Voyant Tools](pics/tools_list.png)
+</div>
 
 ## L’atelier numérique
 
@@ -244,7 +303,7 @@ Outre la version française (sur le serveur de [Voyant Tools](https://voyant.too
 
 Pour plus de détails, consultez le [manuel de Voyant Tools](http://voyant-tools.org/docs/#!/guide/start) (licence CC-BY). Un [tutoriel](https://voyant.tools.huma-num.fr/docs/#!/guide/tutorial) anglophone destiné à servir de base pour l’organisation d’ateliers ou de formations est en cours de rédaction. Pour savoir qui a fait quoi, selon quels principes et en employant quelles technologies, la page [*About*](https://voyant.tools.huma-num.fr/docs/#!/guide/about) de cette documentation est tout indiquée. La [*Gallery*](https://voyant.tools.huma-num.fr/docs/#!/guide/gallery) fournit des exemples variés et le site [Hermeneuti.ca](http://hermeneuti.ca/) illustre l’insertion de panneaux de Voyant dans des essais en ligne.
 
-![Nuage de 25 mots de cette page](pics/voyant_cloud_intro_paris.png")
+![Nuage de 25 mots de cette page](pics/voyant_cloud_intro_paris.png)
 
 # Bibliographie
 
