@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.23)  23 SEP 2021 17:01
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.26)  26 SEP 2021 18:18
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-03.tex
 
@@ -870,7 +870,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.99915pt on input line 85.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 85.
-<pics/Roberto_busa_e_index_thomisticus.jpg, id=25, 235.68306pt x 176.7623pt>
+<pics/Roberto_busa_e_index_thomisticus.jpg, id=37, 235.68306pt x 176.7623pt>
 File: pics/Roberto_busa_e_index_thomisticus.jpg Graphic file (type jpg)
 <use pics/Roberto_busa_e_index_thomisticus.jpg>
 Package luatex.def Info: pics/Roberto_busa_e_index_thomisticus.jpg  used on inp
@@ -880,31 +880,24 @@ ut line 166.
 
 {/home/runner/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 189.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.66702pt
-(hyperref)                removed on input line 189.
-
-[2<./pics/Roberto_busa_e_index_thomisticus.jpg>] [3] (./lecture-03.aux)
+] [2<./pics/Roberto_busa_e_index_thomisticus.jpg>] [3
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
+] [4] (./lecture-03.aux)
 Package rerunfilecheck Info: File `lecture-03.out' has not changed.
-(rerunfilecheck)             Checksum: 14D3EE9FBBBF101F2A4176592E73AE8F;950.
+(rerunfilecheck)             Checksum: B8D154F7C3B0C814A9DDF54ED67E269E;1422.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18570 strings out of 478112
+ 18587 strings out of 478112
  100000,953878 words of node,token memory allocated
- 859 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 15 glue, 4 kern, 1 penalty, 2 glyph, 118 attribute,
- 55 glue_spec, 19 attribute_list, 1 write nodes
-   avail lists: 1:1,2:2280,3:382,4:131,5:323,6:87,7:6221,8:50,9:364,10:5,11:12
- 38324 multiletter control sequences out of 65536+600000
- 71 fonts using 21111111 bytes
- 87i,6n,120p,377b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 935 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 19 glue, 4 kern, 1 penalty, 2 glyph, 139 attribute,
+ 55 glue_spec, 22 attribute_list, 1 write nodes
+   avail lists: 1:1,2:2256,3:382,4:131,5:328,6:87,7:6217,8:50,9:364,10:4,11:12
+ 38330 multiletter control sequences out of 65536+600000
+ 71 fonts using 21111035 bytes
+ 87i,6n,120p,377b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular
 .otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-italic
 .otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regula
@@ -913,10 +906,10 @@ talic.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-b
 old.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-reg
 ular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-re
 gular.otf>
-Output written on lecture-03.pdf (3 pages, 223471 bytes).
+Output written on lecture-03.pdf (4 pages, 230246 bytes).
 
-PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 131072)
- 41 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 131072)
+ 65 words of extra memory for PDF output out of 10000 (max. 100000000)
 

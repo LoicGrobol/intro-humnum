@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
   <meta name="author" content="Loïc Grobol" />
-  <meta name="dcterms.date" content="2021-09-21" />
+  <meta name="dcterms.date" content="2021-09-28" />
   <title>Humanités Numériques</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -1787,7 +1787,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
     <h1 class="title">Humanités Numériques</h1>
   <h1 class="subtitle">Cours 3 : Linguistique et Informatique</h1>
     <h2 class="author">Loïc Grobol</h2>
-    <h3 class="date">2021-09-21</h3>
+    <h3 class="date">2021-09-28</h3>
 </section>
 
 <section><section id="lindex-thomiscus" class="title-slide slide level1"><h1>L’<em>index thomiscus</em></h1><p><a href="https://www.corpusthomisticum.org/it/index.age" class="uri">https://www.corpusthomisticum.org/it/index.age</a></p>
@@ -1835,15 +1835,25 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <p>Quoi qu’il en soit, c’est un travail d’une ampleur exceptionnelle pour l’époque qui a eu une influence considérable sur le développement des HN et du TAL en montrant que ce genre d’entreprise était possible.</p>
 <p><a href="http://melissaterras.blogspot.com/2013/10/for-ada-lovelace-day-father-busas.html">Quelques images du projet</a></p>
 </section></section>
-<section><section id="robertobusa-la-concordance-automatique" class="title-slide slide level1"><h1>Roberto•Busa : la concordance automatique</h1><p>Revenons sur la thèse de Busa</p>
+<section><section id="la-concordance-automatique" class="title-slide slide level1"><h1>La concordance automatique</h1><p>Revenons sur la thèse de Busa</p>
 <blockquote>
-<p>Le lecteur ne doit pas simplement attacher ses propres significations aux mots qu’il lit, mais il doit aussi rechercher les significations que les mots ont pour l’auteur lui-même. Par ailleurs tous les mots fonctionnels et grammaticaux (qui dans mon esprit ne sont pas vides du tout mais au contraire très riche sur le plan philosophique) manifestent la logique la plus profonde de l’être qui génère les structures de base du discours humain ». <span class="citation" data-cites="busa1980AnnalsHumanitiesComputing">(Busa, 1980)</span></p>
-</blockquote></section><section class="slide level2">
+<p>Le lecteur ne doit pas simplement attacher ses propres significations aux mots qu’il lit, mais il doit aussi rechercher les significations que les mots ont pour l’auteur lui-même.</p>
+</blockquote>
+<p>Elle reflète entre autres les idées dites du <em>tournant linguistique</em> en philosophie.</p></section><section class="slide level2">
 
+<blockquote>
+<p>Par ailleurs tous les mots fonctionnels et grammaticaux (qui dans mon esprit ne sont pas vides du tout mais au contraire très riche sur le plan philosophique) manifestent la logique la plus profonde de l’être qui génère les structures de base du discours humain ». <span class="citation" data-cites="busa1980AnnalsHumanitiesComputing">(Busa, 1980)</span></p>
+</blockquote>
+</section><section id="introduction-de-linformatique" class="slide level2">
+<h2>Introduction de l’informatique</h2>
 <ul>
-<li>L’informatique pour embrasser une masse de données</li>
+<li>Comme outil pour embrasser une masse de données</li>
 <li>Mais surtout pour conduire l’analyse à un niveau jusque-là inaccessible. Il ne s’agit plus seulement d’interpréter le texte, mais aussi de l’observer comme objet.</li>
 <li>La rencontre des humanités avec l’industrie</li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
 <li>La mise en chiffre du monde
 <ul>
 <li>Dans la suite de Shannon, Turing : le calcul computationnel, la statistique</li>
@@ -1852,12 +1862,46 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <li>Développement de l’étude informatique des textes.</li>
 </ul>
 </section></section>
+<section><section id="numériser-pour-compter" class="title-slide slide level1"><h1>Numériser pour compter</h1><p>La notion de statistiques textuelles est antérieure à Busa et se développe parallèlement à ses travaux <span class="citation" data-cites="leon2014DataTurnPremiers">(Léon et Tellier, 2014)</span>.</p>
+<ul>
+<li>Jean-Baptiste Estoup (1868 – 1950), Georges Zipf (1902 – 1950) ou Gustav Herdan (1897 – 1968), sur les propriétés statistiques des lexiques</li>
+<li>Charles Muller (1909 — 2015), Pierre Guiraud (1912 – 1983), Étienne Brunet (1936) explorent les applications des statistiques lexicales et textuelles entre autres à la stylistique</li>
+</ul></section><section class="slide level2">
+
+<p>On parle autour des années 80 de <em>lexicométrie</em>, puis autour des années 2000 de <em>textométrie</em>, pour rendre plus explicite qu’on ne se limite pas au simple lexique <span class="citation" data-cites="pincemin2020TextometrieQuestion">(Pincemin, 2020)</span>.</p>
+<p>Ces évolutions vont de pair avec</p>
+<ul>
+<li>La croissance incessante des capacités matérielles de traitement (informatique)</li>
+<li>La généralisation du stockage numérique des documents (numérisés et créés numériquement)</li>
+<li>L’avènement depuis le début du 20ème siècle des méthodes quantitatives en LSHS.</li>
+</ul>
+</section></section>
+<section id="les-plateformes-danalyse" class="title-slide slide level1"><h1>Les plateformes d’analyse</h1><p>L’intérêt grandissant pour les méthodes de statistiques textuelles va aussi de pair avec la création de logiciels permettant à des non-informaticien⋅ne⋅s de les mettre en œuvre :</p>
+<ul>
+<li><a href="http://hyperbase.unice.fr">Hyperbase</a> (1989)</li>
+<li><a href="http://lexi-co.com">Lexico</a> (1994)</li>
+<li><a href="http://www.tal.univ-paris3.fr/trameur/">Le Trameur</a> (2008)</li>
+<li><a href="http://textometrie.ens-lyon.fr">TXM</a> (2010) <span class="citation" data-cites="heiden2010TXMPlateformeLogicielle">(Heiden et al., 2010)</span></li>
+<li>…</li>
+</ul></section>
 <section id="bibliographie" class="title-slide slide level1"><h1>Bibliographie</h1><div id="refs" role="doc-bibliography">
 <div id="ref-busa1980AnnalsHumanitiesComputing">
 <p>R. Busa. 1980. The Annals of Humanities Computing: The Index Thomisticus. <em>Computers and the Humanities</em>, 14(2):83‑90.</p>
 </div>
 <div id="ref-desrosieres2010PolitiqueGrandsNombres">
 <p>Alain Desrosières. 2010. <em>La politique des grands nombres</em>. La Découverte, éditions.</p>
+</div>
+<div id="ref-heiden2010TXMPlateformeLogicielle">
+<p>Serge Heiden, Jean-Philippe Magué, et Bénédicte Pincemin. 2010. TXM : Une plateforme logicielle open-source pour la textométrie - conception et développement. In Luca Giuliano Sergio Bolasco Isabella Chiari, éditeur, <em>10th International Conference on the Statistical Analysis of Textual Data</em>, volume 2, pages 1021‑1032, Roma, Italia, mai. Edizioni Universitarie di Lettere Economia Diritto.</p>
+</div>
+<div id="ref-lebart1994StatistiqueTextuelle">
+<p>Ludovic Lebart et André Salem. 1994. <em>Statistique textuelle</em>. Dunod, éditions.</p>
+</div>
+<div id="ref-leon2014DataTurnPremiers">
+<p>Jacqueline Léon et Isabelle Tellier. 2014. Le data turn. Des premiers traitements statistiques du langage (1950-60) à la fouille de textes. <em>L’information grammaticale</em>(142):30‑39, juin.</p>
+</div>
+<div id="ref-pincemin2020TextometrieQuestion">
+<p>Bénédicte Pincemin. 2020. La textométrie en question. <em>Le Français Moderne - Revue de linguistique Française</em>, 88(1):26, mars.</p>
 </div>
 </div></section>
     </div>
