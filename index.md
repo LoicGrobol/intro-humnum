@@ -31,6 +31,9 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 ### 2021-09-28 — Linguistique et informatique
 
 - [Slides 3](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-03.html)
+- [Slides 4](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-04.html)
+
+
 ## Sources et bibliographie
 
 - Les ateliers [*Voyant Tools*](https://github.com/aurelberra/voyant_tools d'Aurélien Berra
