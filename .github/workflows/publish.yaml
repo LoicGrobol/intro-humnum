@@ -20,6 +20,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get libcurl
 
       - name: Setup R
         uses: r-lib/actions/setup-r@v1
