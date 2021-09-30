@@ -4,6 +4,11 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 [comment]: <> "LTeX: language=fr"
 
+## Nouvelles
+
+- 2021-09-30 : **le cours du 5 octobre 2021 est annulé**, son report éventuel sera annoncé
+  ultèrieurement
+
 ## Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
@@ -31,6 +36,9 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 ### 2021-09-28 — Linguistique et informatique
 
 - [Slides 3](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-03.html)
+
+### 2021-10-12  — Tutoriel Voyant Tools
+
 - [Slides 4](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-04.html)
 
 ## Licences
