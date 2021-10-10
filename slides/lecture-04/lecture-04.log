@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.9.29)  30 SEP 2021 12:10
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.10)  10 OCT 2021 16:25
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-04.tex
 
@@ -870,17 +870,17 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.99915pt on input line 85.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 85.
-<pics/voyant-logo_0.png, id=93, 80.3pt x 80.3pt>
+<pics/voyant-logo_0.png, id=85, 80.3pt x 80.3pt>
 File: pics/voyant-logo_0.png Graphic file (type png)
 <use pics/voyant-logo_0.png>
 Package luatex.def Info: pics/voyant-logo_0.png  used on input line 92.
 (luatex.def)             Requested size: 80.30223pt x 80.30223pt.
-<pics/voyant_skin.png, id=95, 2309.62875pt x 1345.025pt>
+<pics/voyant_skin.png, id=87, 2309.62875pt x 1345.025pt>
 File: pics/voyant_skin.png Graphic file (type png)
 <use pics/voyant_skin.png>
 Package luatex.def Info: pics/voyant_skin.png  used on input line 102.
 (luatex.def)             Requested size: 469.7413pt x 273.55643pt.
-<pics/voyant_home.png, id=99, 1063.975pt x 641.39626pt>
+<pics/voyant_home.png, id=91, 1063.975pt x 641.39626pt>
 File: pics/voyant_home.png Graphic file (type png)
 <use pics/voyant_home.png>
 Package luatex.def Info: pics/voyant_home.png  used on input line 133.
@@ -889,7 +889,7 @@ Package luatex.def Info: pics/voyant_home.png  used on input line 133.
 
 {/home/runner/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./pics/voya
 nt-logo_0.png>] [2<./pics/voyant_skin.png><./pics/voyant_home.png>]
-<pics/frankenstein_cloud.png, id=127, 432.61626pt x 281.05pt>
+<pics/frankenstein_cloud.png, id=119, 432.61626pt x 281.05pt>
 File: pics/frankenstein_cloud.png Graphic file (type png)
 <use pics/frankenstein_cloud.png>
 Package luatex.def Info: pics/frankenstein_cloud.png  used on input line 237.
@@ -897,71 +897,36 @@ Package luatex.def Info: pics/frankenstein_cloud.png  used on input line 237.
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 279.
 [3]
-<pics/tools_list.png, id=142, 1940.24875pt x 678.535pt>
+<pics/tools_list.png, id=134, 1940.24875pt x 678.535pt>
 File: pics/tools_list.png Graphic file (type png)
 <use pics/tools_list.png>
 Package luatex.def Info: pics/tools_list.png  used on input line 336.
 (luatex.def)             Requested size: 469.75482pt x 164.28052pt.
-[4<./pics/frankenstein_cloud.png>]
-Underfull \hbox (badness 1668) in paragraph at lines 378--387
-\TU/lmr/m/n/10 concordance, co-occurrence), certains sont en vogue dans les huma
-nités numériques (modélisation
- []
-
-[5<./pics/tools_list.png>]
-Overfull \hbox (3.45831pt too wide) in paragraph at lines 462--468
-[]\TU/lmtt/m/n/10 Thèmes\TU/lmr/m/n/10 /\TU/lmtt/m/n/10 Topics \TU/lmr/m/n/10 
-réalise une modélisation thématique : tous les termes du corpus sont algorith
-miquement
- []
-
-<pics/voyant_multilingual_stoplists_sample.png, id=166, 2312.64pt x 1218.5525pt
->
-File: pics/voyant_multilingual_stoplists_sample.png Graphic file (type png)
-<use pics/voyant_multilingual_stoplists_sample.png>
-Package luatex.def Info: pics/voyant_multilingual_stoplists_sample.png  used on
- input line 472.
-(luatex.def)             Requested size: 469.75385pt x 247.51787pt.
+[4<./pics/frankenstein_cloud.png>] [5<./pics/tools_list.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 479.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 436.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 1.66702pt
-(hyperref)                removed on input line 479.
+(hyperref)                removed on input line 436.
 
-
-Overfull \hbox (24.99388pt too wide) in paragraph at lines 500--507
-\TU/lmr/m/n/10 constitue son identifiant unique (essayez d’ajouter à l’URL de base \TU/lmtt/m/n/10 ?corpus=75b440214b14d5402b2d9ab1e0150d17
- []
-
-[6] [7<./pics/voyant_multilingual_stoplists_sample.png>] [8]
-File: pics/voyant-logo_0.png Graphic file (type png)
-<use pics/voyant-logo_0.png>
-Package luatex.def Info: pics/voyant-logo_0.png  used on input line 729.
-(luatex.def)             Requested size: 80.30223pt x 80.30223pt.
-<pics/voyant_cloud_intro_paris.png, id=227, 1541.76pt x 1218.5525pt>
-File: pics/voyant_cloud_intro_paris.png Graphic file (type png)
-<use pics/voyant_cloud_intro_paris.png>
-Package luatex.def Info: pics/voyant_cloud_intro_paris.png  used on input line 
-759.
-(luatex.def)             Requested size: 469.75385pt x 371.27681pt.
-[9] [10<./pics/voyant_cloud_intro_paris.png>] (./lecture-04.aux)
+[6] [7] (./lecture-04.aux)
 Package rerunfilecheck Info: File `lecture-04.out' has not changed.
-(rerunfilecheck)             Checksum: B2F73A67E90FAE3F1017F3E19DC97FA5;3529.
+(rerunfilecheck)             Checksum: 03DCD14B4F9487C78944E5BFC7FE4C50;3102.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18730 strings out of 478112
+ 18687 strings out of 478112
  100000,953878 words of node,token memory allocated
- 2274 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 76 glue, 4 kern, 1 penalty, 2 glyph, 545 attribute,
- 55 glue_spec, 80 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:1,2:2411,3:374,4:112,5:479,6:68,7:8617,8:79,9:305,10:9,11:16
- 38397 multiletter control sequences out of 65536+600000
- 72 fonts using 21231907 bytes
- 87i,6n,120p,489b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1709 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 51 glue, 4 kern, 1 penalty, 2 glyph, 377 attribute,
+ 55 glue_spec, 56 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 1:1,2:2603,3:374,4:112,5:415,6:69,7:4423,8:79,9:305,10:5,11:12
+ 38381 multiletter control sequences out of 65536+600000
+ 72 fonts using 21231983 bytes
+ 87i,6n,120p,380b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf>
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></
 home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf></h
@@ -972,10 +937,10 @@ f></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf>
 ></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.ot
 f></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.o
 tf>
-Output written on lecture-04.pdf (10 pages, 1466527 bytes).
+Output written on lecture-04.pdf (7 pages, 1029708 bytes).
 
-PDF statistics: 306 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 131072)
- 177 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 248 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 54 named destinations out of 1000 (max. 131072)
+ 161 words of extra memory for PDF output out of 10000 (max. 100000000)
 
