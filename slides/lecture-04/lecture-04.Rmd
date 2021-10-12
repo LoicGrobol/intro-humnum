@@ -76,7 +76,7 @@ visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedI
     [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html))
   - Toutes les contributions sont les bienvenues
 - Objectif : Manipuler, explorer, fouiller les corpus textuels
-  - Interactions rapides et faciles avec
+  - Interactions rapides et faciles avec les données
   - Conviction que la théorie et la pratique sont intimement mêlées.
 
 ---
@@ -123,7 +123,7 @@ Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage
 ## `Termes`/`Terms`
 
 La [table des
-fréquences](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=CorpusTerms)
+fréquences](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=DocumentTerms)
 
 ---
 
@@ -131,7 +131,7 @@ Avec-vous vu :
 
 - Les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur les flèches) ?
 - Les *sparklines*, qui résument dans la colonne de droite les tendances des termes au fil du
-  corpus ?
+  texte ?
 
 ## Lecteur/Reader
 
@@ -143,9 +143,11 @@ Avec-vous vu :
 
 ## `Contextes`/`Contexts`
 
-[Le concordancier](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Reader) (du type Keyword in Context, KWIC).
+[Le
+concordancier](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&query=father&view=Contexts)
+(du type Keyword in Context, KWIC).
 
-- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ? 
+- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ?
 - Un menu vous donne la possibilité de restreindre le corpus à certains documents.
 
 ## Autres outils
@@ -157,7 +159,7 @@ Avec-vous vu :
 # L’atelier numérique
 
 Pour observer plus méthodiquement l’environnement de travail complet, suivez le lien vers le [corpus
-de Shakespeare](https://voyant-tools.huma-num.fr/?corpus=shakespeare).
+de Shakespeare](https://voyant-tools.org/?corpus=shakespeare).
 
 La configuration par défaut de Voyant combine un ensemble de modules complémentaires et parfois
 coordonnés. Des panneaux supplémentaires sont présents lorsque vous travaillez sur une collection de
@@ -178,7 +180,7 @@ Voyant Tools propose actuellement 24 outils en ligne (voir la
 [documentation](http://voyant-tools.org/docs/#!/guide/tools)) :
 
 - Linguistique de corpus / computationnelle (dénombrement, concordance, co-occurrence)
-- Humanités numériques (modélisation thématique aka*topic modelling*)
+- Humanités numériques (modélisation thématique aka *topic modelling*)
 - Expérimentaux, artistiques (lesquels, à votre avis ?).
 
 ---
@@ -244,7 +246,7 @@ Français moderne : Lautréamont, [*Les Chants de Maldoror*](http://athena.unig
 ---
 
 Moyen français : Rabelais,
-[*Pantagruel*](http://athena.unige.ch/athena/rabelais/rabelais_pantagruel.html)
+[*Pantagruel*](http://athena.unige.ch/athena/rabelais/rabelais-pantagruel.html)
 
 - Observer les distributions des noms propres Pantagruel et Panurge.
 - Trouver une bonne liste de mots vide n'est pas forcément évident ici
