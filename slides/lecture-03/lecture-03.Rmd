@@ -1,6 +1,6 @@
 ---
 title: "Humanités Numériques"
-subtitle: "Cours 3 : Linguistique et Informatique"
+subtitle: "Cours 3 : Linguistique et Informatique partie 1"
 author: Loïc Grobol
 date: 2021-09-28
 lang: fr-FR

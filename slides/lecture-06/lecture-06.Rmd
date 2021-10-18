@@ -1,0 +1,110 @@
+---
+title: "Humanités Numériques"
+subtitle: "Cours 6 : Les documents dans les bibliothèques"
+author: Loïc Grobol
+date: 2021-10-19
+lang: fr-FR
+bibliography: "../../biblio.bib"
+csl: "../association-for-computational-linguistics.csl"
+output:
+  revealjs::revealjs_presentation:
+    css: "../reveal_slides_style.css"
+    theme: white
+    highlight: pygments
+    reveal_options:
+      slideNumber: true
+      progress: true
+  pdf_document:
+    latex_engine: "lualatex"
+---
+
+[comment]: <> "LTeX: language=fr"
+
+# Les premières bibliothèques
+
+## Asie de l'Ouest
+
+D'après @ryholt2019LibrariesAlexandriaAncient
+
+Mésopotamie :
+
+- Premières collections de textes/écrits (sur tablettes d'argile) entre -2600 et -2300 (périodes d'Uruk, pré-dynastique et empire Akkadien)
+- Collections/proto-archives de textes administratifs, éducatifs et littérature entre -1900 et -1600 (période paléo-babylonienne)
+- -1750 : [tablette de plainte à Ea-Nasir](https://commons.wikimedia.org/wiki/File:Complaint_tablet_to_Ea-Nasir_2020.jpg)
+
+---
+
+Empire Hittite (Anatolie) :
+
+- Collections de tablettes liées à des écoles, temples, palais
+
+Au moins une bibliothèque/archive manifeste à Hattusa (𒄩𒀜𒌅𒊭, capitale de l'empire) :
+
+- Fonction propre de conservation et reproduction
+- Usage de **catalogues**
+
+---
+
+Développement progressif :
+
+- Syrie et Levant à partir de l'age du bronze (-1400)
+- Empires assyrien et néo-babylonien à partir de -800 (mais dans la continuité des cultures précédentes)
+
+
+---
+
+Bibliothèque d'Assubarnipal (𒀸𒋩𒆕𒀀) à Ninive (𒉌𒉡𒀀) autour de -600
+
+- 25 000 à 30 000 tablettes encore conservées (environ 1200 textes)
+- Politique systématique d’enrichissement menée par le roi.
+- Conservation du « savoir universel »
+- Archives, histoire, magie, textes littéraires ([épopée de Gilgamesh](https://www.britishmuseum.org/collection/object/W_K-3382)
+
+---
+
+> O Mighty King, remember now that only gods stay in eternal watch.  
+> Humans come then go, that is the way fate decreed on the Tablets of Destiny.  
+> So someday you will depart, but till that distant day  
+> Sing, and dance.  
+> Eat your fill of warm cooked food and cool jugs of beer.  
+> Cherish the children your love gave life.  
+> Bathe away life's dirt in warm drawn waters.  
+> Pass the time in joy with your chosen wife.  
+> On the Tablets of Destiny it is decreed  
+> For you to enjoy short pleasures for your short days.  
+
+Épopée de Gilgamesh (tablette 10)
+
+---
+
+[![Une étagère contenant des tablettes et des fragments de tablettes en argile](pics/Library_of_Ashurbanipal.jpg)](https://en.wikipedia.org/wiki/File:Library_of_Ashurbanipal.jpg)
+
+Bibliothèque d'Assubarnipal, conservée au British Museum
+
+## Égypte
+
+- Traces de textes à partir de -2600 mais conservation difficile
+- Bibliothèques funéraires à partir de la 12ème dynastie (autour de -2000)
+- Collection de papyrus médicinaux dits « du Ramesseum » (trouvés sous le temps funéraire de Ramsès 2 mais antérieurs de 600 ans) autour de -1700
+- À partir de -1600 : bibliothèques institutionnelles et privées
+
+---
+
+[![Fragment de papyrus effiloché sur lequel on distingue un fragment de texte à l'encre noire et quelques caractères en rouge](pics/Papyrus_fragment_MET_09.180.532_0065.jpg)](https://commons.wikimedia.org/wiki/File:Papyrus_fragment_MET_09.180.532_0065.jpg)
+
+Fragment d'un des papyrus médicinaux dits « du Ramesseum »
+
+## Chine
+
+## Amérique centrale
+
+# Bibliothèques gréco-romaines
+
+# Monde arabe
+
+incl. شنقيط (Šinqīṭ/Chinguetti), Tumbutu (Tombouctou)
+
+# Bibliographie
+
+::: {#refs}
+:::
