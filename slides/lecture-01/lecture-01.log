@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.18)  18 OCT 2021 16:30
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.18)  18 OCT 2021 20:36
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-01.tex
 
@@ -919,7 +919,7 @@ Here is how much of LuaTeX's memory you used:
  55 glue_spec, 44 attribute_list, 1 write nodes
    avail lists: 1:1,2:2402,3:497,4:121,5:301,6:94,7:5040,8:85,9:363,10:4,11:12
  38360 multiletter control sequences out of 65536+600000
- 73 fonts using 21374475 bytes
+ 73 fonts using 21374551 bytes
  87i,6n,120p,396b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular
 .otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-boldit
