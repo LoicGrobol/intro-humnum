@@ -41,6 +41,11 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 - [Slides 4](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-04.html)
 
+### 2021-10-19 — Corpus, Documents structurés et histoire des bibliothèques
+
+- [Slides 5](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-05.html)
+- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
+
 ## Licences
 
 [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
