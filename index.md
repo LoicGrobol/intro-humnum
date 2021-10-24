@@ -46,6 +46,11 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 - [Slides 5](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-05.html)
 - [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
 
+### 2021-10-26 — Histoire des bibliothèques et bibliothèques numériques
+
+- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
+- [Slides 7](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-07.html)
+
 ## Licences
 
 [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
