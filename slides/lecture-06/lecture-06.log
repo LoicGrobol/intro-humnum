@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.18)  18 OCT 2021 20:37
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.10.22)  24 OCT 2021 18:01
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-06.tex
 
@@ -44,7 +44,7 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2021-10-17>
+. L3 programming layer <2021-10-18>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'. (/home/ru
 nner/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
@@ -168,9 +168,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/home/runner/.TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/h
 ome/runner/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-10-17 L3 programming layer (loader) 
+Package: expl3 2021-10-18 L3 programming layer (loader) 
 (/home/runner/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2021-10-17 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2021-10-18 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box52
 ))
@@ -394,7 +394,7 @@ y)
 Package grffile Info: This package is an empty stub for compatibility on input 
 line 40.
 ) (/home/runner/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/10/13 3.64 The Babel package
+Package: babel 2021/10/19 3.65 The Babel package
 (/home/runner/.TinyTeX/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
 \l@dumylang=\language2
@@ -871,6 +871,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [1
 
 {/home/runner/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no 𒄩 (U+12129) in font [lmroman10-regular]:+tlig;
 !
 Missing character: There is no 𒀜 (U+1201C) in font [lmroman10-regular]:+tlig;
@@ -879,6 +883,14 @@ Missing character: There is no 𒌅 (U+12305) in font [lmroman10-regular]:+tlig;
 !
 Missing character: There is no 𒊭 (U+122AD) in font [lmroman10-regular]:+tlig;
 !
+]
+<pics/Library_of_Ashurbanipal.jpg, id=108, 4850.12pt x 3082.51625pt>
+File: pics/Library_of_Ashurbanipal.jpg Graphic file (type jpg)
+<use pics/Library_of_Ashurbanipal.jpg>
+Package luatex.def Info: pics/Library_of_Ashurbanipal.jpg  used on input line 2
+25.
+(luatex.def)             Requested size: 469.72101pt x 298.53337pt.
+[2
 Missing character: There is no 𒀸 (U+12038) in font [lmroman10-regular]:+tlig;
 !
 Missing character: There is no 𒋩 (U+122E9) in font [lmroman10-regular]:+tlig;
@@ -894,50 +906,200 @@ Missing character: There is no 𒉡 (U+12261) in font [lmroman10-regular]:+tlig;
 Missing character: There is no 𒀀 (U+12000) in font [lmroman10-regular]:+tlig;
 !
 ]
-<pics/Library_of_Ashurbanipal.jpg, id=52, 4850.12pt x 3082.51625pt>
-File: pics/Library_of_Ashurbanipal.jpg Graphic file (type jpg)
-<use pics/Library_of_Ashurbanipal.jpg>
-Package luatex.def Info: pics/Library_of_Ashurbanipal.jpg  used on input line 1
-88.
-(luatex.def)             Requested size: 469.72101pt x 298.53337pt.
-[2<./pics/Library_of_Ashurbanipal.jpg>]
-<pics/Papyrus_fragment_MET_09.180.532_0065.jpg, id=60, 1927.2pt x 1555.7322pt>
+<pics/Papyrus_fragment_MET_09.180.532_0065.jpg, id=116, 1927.2pt x 1555.7322pt>
+
 File: pics/Papyrus_fragment_MET_09.180.532_0065.jpg Graphic file (type jpg)
 <use pics/Papyrus_fragment_MET_09.180.532_0065.jpg>
 Package luatex.def Info: pics/Papyrus_fragment_MET_09.180.532_0065.jpg  used on
- input line 212.
+ input line 251.
 (luatex.def)             Requested size: 469.7421pt x 379.1993pt.
-[3
+[3<./pics/Library_of_Ashurbanipal.jpg>] [4<./pics/Papyrus_fragment_MET_09.180.53
+2_0065.jpg>]
+<pics/Dresden_Codex_pp.58-62_78.jpg, id=134, 2677.00125pt x 1011.78pt>
+File: pics/Dresden_Codex_pp.58-62_78.jpg Graphic file (type jpg)
+<use pics/Dresden_Codex_pp.58-62_78.jpg>
+Package luatex.def Info: pics/Dresden_Codex_pp.58-62_78.jpg  used on input line
+ 313.
+(luatex.def)             Requested size: 469.74852pt x 177.54274pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 316.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 316.
+
+[5<./pics/Dresden_Codex_pp.58-62_78.jpg>]
+Underfull \hbox (badness 1939) in paragraph at lines 453--455
+[]\TU/lmr/m/n/10 Nombreuses bibliothèques à Bagdad puis dans tout le monde ara
+be, au sud jusqu’à ش󰀀ن󰀀ق󰀀ي󰀀ط󰀀
+ []
+
+[6
+Missing character: There is no Ἀ (U+1F08) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ξ (U+03BE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no δ (U+03B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ϊ (U+03CA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no κ (U+03BA) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ὴ (U+1F74) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no β (U+03B2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ί (U+03AF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ῖ (U+1FD6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ω (U+03C9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ή (U+03AE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ῖ (U+1FD6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no δ (U+03B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no φ (U+03C6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no υ (U+03C5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ῖ (U+1FD6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ῆ (U+1FC6) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no Ἀ (U+1F08) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ξ (U+03BE) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no δ (U+03B4) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ί (U+03AF) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no َ (U+064E) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no غ (U+063A) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ْ (U+0652) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no َ (U+064E) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ش (U+0634) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ن (U+0646) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ق (U+0642) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ي (U+064A) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ط (U+0637) in font [lmroman10-regular]:+tlig;!
-<./pics/Papyrus_fragment_MET_09.180.532_0065.jpg>] [4] (./lecture-06.aux)
+Missing character: There is no ⵜ (U+2D5C) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⵏ (U+2D4F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⴱ (U+2D31) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⴾ (U+2D3E) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ⵜ (U+2D5C) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no َ (U+064E) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ْ (U+0652) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no َ (U+064E) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ُ (U+064F) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ث (U+062B) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]:+tlig;!
+] [7] [8] [9] (./lecture-06.aux)
 Package rerunfilecheck Info: File `lecture-06.out' has not changed.
-(rerunfilecheck)             Checksum: 0A10D2B46CA192EB13F6EF67883CC6E9;1041.
+(rerunfilecheck)             Checksum: DC47903A9A978F35C2D7BC10E0CAA5D3;2874.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18587 strings out of 478112
+ 18662 strings out of 478092
  100000,953878 words of node,token memory allocated
- 799 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 11 glue, 4 kern, 1 penalty, 2 glyph, 104 attribute,
- 55 glue_spec, 17 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1969,3:326,4:115,5:280,6:85,7:4927,8:26,9:325,10:6,11:46
- 38335 multiletter control sequences out of 65536+600000
- 69 fonts using 20848931 bytes
- 87i,6n,120p,351b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1559 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 57 glue, 4 kern, 1 penalty, 2 glyph, 293 attribute,
+ 55 glue_spec, 44 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 1:1,2:2697,3:336,4:130,5:283,6:80,7:5296,8:105,9:316,10:6,11:38
+ 38392 multiletter control sequences out of 65536+600000
+ 70 fonts using 20975019 bytes
+ 87i,6n,120p,351b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf>
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></
+home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></
 home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><
 /home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></h
 ome/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></
 home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on lecture-06.pdf (4 pages, 12167364 bytes).
+Output written on lecture-06.pdf (9 pages, 13879829 bytes).
 
-PDF statistics: 119 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 131072)
- 65 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 226 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 131072)
+ 169 words of extra memory for PDF output out of 10000 (max. 100000000)
 
