@@ -20,6 +20,23 @@ output:
 
 [comment]: <> "LTeX: language=fr"
 
+# Avertissement préliminaire
+
+- Ces diapos ne représentent qu'une très brève et très incomplète histoire des bibliothèques.
+- Elles manquent cruellement de sources sur les bibliothèques historiques, en particulier hors
+  d'Europe.
+- Les diverses transcriptions et traductions n'ont pas été vérifiées par des expert⋅e⋅s, les prendre
+  avec un gros grain de sel.
+
+---
+
+- Si par chance vous êtes expert⋅e⋅s de n'importe lequel des sujets traités ici, n'hésitez pas à me
+  suggérer des corrections ou améliorations [via
+  Github](https://github.com/LoicGrobol/intro-humnum/issues) où à
+  [`<loic.grobol@gmail.com>`](mailto:loic.grobol@gmail.com).
+- Je suis également à la recherche de transcriptions en API des divers noms
+  propres cités.
+
 # Les premières bibliothèques
 
 ## Asie de l'Ouest
@@ -29,8 +46,10 @@ D'après @ryholt2019LibrariesAlexandriaAncient
 Mésopotamie :
 
 - Premières traces d'écriture autour de -3400
-- Premières collections de textes/écrits (sur tablettes d'argile) entre -2600 et -2300 (périodes d'Uruk, pré-dynastique et empire Akkadien)
-- Collections/proto-archives de textes administratifs, éducatifs et littérature entre -1900 et -1600 (période paléo-babylonienne)
+- Premières collections de textes/écrits (sur tablettes d'argile) entre -2600 et -2300 (périodes
+  d'Uruk, pré-dynastique et empire Akkadien)
+- Collections/proto-archives de textes administratifs, éducatifs et littérature entre -1900 et -1600
+  (période paléo-babylonienne)
 - -1750 : [tablette de plainte à Ea-Nasir](https://commons.wikimedia.org/wiki/File:Complaint_tablet_to_Ea-Nasir_2020.jpg)
 
 ---
@@ -48,9 +67,8 @@ Au moins une bibliothèque/archive manifeste à Hattusa (𒄩𒀜𒌅𒊭, capit
 
 Développement progressif :
 
-- Syrie et Levant à partir de l'age du bronze (-1400)
+- Syrie et Levant à partir de l'âge du bronze (-1400)
 - Empires assyrien et néo-babylonien à partir de -800 (mais dans la continuité des cultures précédentes)
-
 
 ---
 
@@ -88,7 +106,7 @@ Bibliothèque d'Ashubarnipal, conservée au British Museum
 ## Égypte
 
 - Premières traces d'écritures vers -3200
-- Traces de textes à partir de -2600 mais conservation difficile
+- Traces de textes à partir de -2600, mais conservation difficile
 - Bibliothèques funéraires à partir de la 12ème dynastie (autour de -2000)
 - Collection de papyrus médicinaux dits « du Ramesseum » (trouvés sous le temple funéraire de Ramsès
   2 mais antérieurs de 600 ans) autour de -1700
@@ -96,7 +114,9 @@ Bibliothèque d'Ashubarnipal, conservée au British Museum
 
 ---
 
-[![Fragment de papyrus effiloché sur lequel on distingue un fragment de texte à l'encre noire et quelques caractères en rouge](pics/Papyrus_fragment_MET_09.180.532_0065.jpg)](https://commons.wikimedia.org/wiki/File:Papyrus_fragment_MET_09.180.532_0065.jpg)
+[![Fragment de papyrus effiloché sur lequel on distingue un fragment de texte à l'encre noire et
+quelques caractères en
+rouge](pics/Papyrus_fragment_MET_09.180.532_0065.jpg)](https://commons.wikimedia.org/wiki/File:Papyrus_fragment_MET_09.180.532_0065.jpg)
 
 Fragment d'un des papyrus médicinaux dits « du Ramesseum »
 
@@ -134,8 +154,15 @@ de recherches menées par des natifves) traitent de cette question.
 ---
 
 [![Six sheets of the Dresden Codex (pp. 55-59, 74) depicting eclipses, multiplication tables and the
-flood
-](pics/Dresden_Codex_pp.58-62_78.jpg)](https://en.wikipedia.org/wiki/Dresden_Codex#/media/File:Dresden_Codex_pp.58-62_78.jpg)
+flood](pics/Dresden_Codex_pp.58-62_78.jpg)](https://en.wikipedia.org/wiki/Dresden_Codex#/media/File:Dresden_Codex_pp.58-62_78.jpg)
+
+
+# Note : sources
+
+La suite de ces diapos doit beaucoup à <http://www.abf.asso.fr/fichiers/file/Midi-Pyrenees/FORMATION/20190924-Histoirebibliotheques_part1.pdf>.
+
+J'encourage cependant mes lecteurices à les considérer comme un résumé, nécessairement incomplet et
+imprécis et à les croiser avec des sources académiques.
 
 # Bibliothèques gréco-romaines
 
@@ -158,7 +185,7 @@ flood
 - Alexandrie (Ἀλεξάνδρεια), Empire Ptolémaïque (Πτολεμαϊκὴ βασιλεία, actuelle Égypte)
 - Fondée vers -300 par Ptolémée 1er (Πτολεμαῖος Σωτήρ, fondateur de la dynastie) ou son fils
   Ptolémée 2 (Πτολεμαῖος Φιλάδελφος)
-- Partie du Mouseion d'Alexandrie (Μουσεῖον τῆς Ἀλεξανδρείας)
+- Partie du *Mouseion* d'Alexandrie (Μουσεῖον τῆς Ἀλεξανδρείας)
 - Détruite entre le premier et le deuxième siècle de notre ère.
 
 ---
@@ -174,14 +201,155 @@ flood
 - Associées à un centre épiscopal ou monastique. À l’origine très spécialisées.
 - La décomposition progressive de l’Empire Romain entraine la disparition des bibliothèques
   publiques et des centres d’éducation.
+
+---
+
 - Les institutions chrétiennes (évêchés, monastères) deviennent centres d’éducation et concentrent
-  toute la littérature existante : œuvres profanes, grammaire, philosophie etc.
+  toute la littérature existante : profane, grammaire, philosophie…
 - Les monastères sont aussi centres de production des livres : règle de Saint- Benoit. Ateliers de
   copie, échanges d’ouvrages. Gardiens de la culture antique.
 
 # Monde arabe
 
-incl. شنقيط (Šinqīṭ/Chinguetti), Tumbutu (Tombouctou)
+- Rayonnement culturel intense dès la fin du 7ème
+- 762 : Bagdad (بَغْدَاد), capitale de la dynastie Abbasside. Bibliothèque d’Harun Al Rashid (هارون
+  الرشید, 786-809).
+- 832 : fondation de la Maison de la sagesse par Al Ma’Mun (المأمون). Traduction systématique des
+  œuvres grecques
+  - Catalogue rédigé en 987
+  - Généralisation de l’usage du codex et du papier.
+
+---
+
+- Nombreuses bibliothèques à Bagdad puis dans tout le monde arabe, au sud jusqu'à شنقيط
+  (Šinqīṭ/Chinguetti) et Tumbutu (ⵜⵏⴱⴾⵜ, Tombouctou).
+
+---
+
+En Europe :
+
+- Bibliothèques brillantes en Al-Andalus (الأَنْدَلُس) à partir de la bibliothèque « universelle »
+  du calife Al Hakam 2 (الحکم ثانی) au 10èmse siècle.
+- Transferts vers le monde occidental à partir du 11—12ème siècle.
+- Ateliers de copie et de traduction à Cordoue puis dans toute l’Espagne chrétienne (Toledo) et en
+  Sicile
+
+# Europe médiévale
+
+- Bibliothèques monastiques et épiscopales
+- À partir du 12ème siècle : « renouveau de la pensée occidentale »
+- Augmentation de la production des livres.
+- Usage nouveau du livre pour l’enseignement
+- Développement des bibliothèques universitaires
+
+---
+
+- Création progressive des bibliothèques princières (14ème : bibliothèque de Charles 5).
+- À l’origine, les livres sont conservés dans des armoires
+- On ne lit pas dans la bibliothèque, réservoir de livres
+- Les premières bibliothèques universitaires sont des salles de travail : Livres usuels présentés
+  sur des pupitres.
+- Les bibliothèques princières sont conçues comme des écrins : objets d’apparat.
+
+# Humanisme
+
+- L'humanisme (14—15ème siècle) stimule la production d’écrits (littéraires, scientifiques,
+  techniques).
+- Invention de l’imprimerie vers 1455
+- Bibliothèque du Roi (François 1er) à Fontainebleau en 1544
+  - Issue des collections Royales (à Blois depuis 1501)
+  - Transférée à Paris en 1570.
+- 16ème siècle : croissance continue du nombre des livres imprimés et des bibliothèques
+
+# XVIIe-XVIIIe s
+
+- Croissance ininterrompue du nombre de livres imprimés.
+- Diversification de la production.
+- Succès des bibliothèques privées, parfois gérées par un bibliothécaire ((Mazarine, 1643)
+
+---
+
+Renaissance des bibliothèques publiques :
+
+- Bibliothèques privées ouvertes au public (par ex. Mazarine) .
+- Modèle italien inspiré de l’Antiquité (Biblioteca Medicea Laurenziana à Firenze (Florence) 1573 ;
+  Ambrosiana, Milano, 1609)
+- Bibliothèques des congrégations religieuses, s’ouvrent aux étudiants et savants
+
+---
+
+- Collections privées léguées à une institution pour être ouvertes au public
+  - La Rochelle; Troyes; Besançon au 17ème
+  - 40 bibliothèques au 18ème.
+- Souscription publique (Grenoble, 1772)
+
+# Révolution Française
+
+- Saisies révolutionnaires : 4 à 7 millions de documents
+- Constitution de dépôts littéraires
+- Création des bibliothèques publiques confiée aux municipalités (1803)
+
+# Le 19ème siècle
+
+## En France
+
+- Révolutions techniques et accroissements de la production éditoriale
+- Développement de la presse et production d’ouvrages bon marché
+- Poids des saisies révolutionnaires : les bibliothèques françaises sont saturées de livres.
+- Développement des cabinets de lecture, puis des bibliothèques « populaires » (philanthropiques)
+
+---
+
+- Intervention plus grande de l'État au fil du siècle
+- Création des bibliothèques scolaires sous Napoléon III.
+- Bibliothèques universitaires sous la IIIe République (1885)
+- Agrandissement de la BN et reconstruction de la bibliothèque Ste Geneviève par Labrouste
+
+## En Grande Bretagne
+
+- Bibliothèques de prêt : 4 à Londres en 1770. Se généralisent au 19ème siècle.
+- Développement du libre-accès (fin 19ème)
+- Réflexion sur les classifications : LC et Dewey vers 1870-1880
+
+# Le XXe siècle en France
+
+- 1945 : création des bibliothèques centrales de prêt (BCP), pour développer la « lecture rurale »
+  (communes de moins de 15000 habitants)
+- Années 60 : prise de conscience de l’insuffisance des bibliothèques en France
+- 1962 : Instructions ministérielles concernant l’organisation des BU et programme de construction
+
+---
+
+- 1968 : Plan de développement des bibliothèques publiques.
+- Constructions nouvelles, généralisation des sections enfantines
+- Développement du libre-accès à partir des années 70
+- 70—80 : diversification des fonds des bibliothèques publiques, création des médiathèques. Meilleur
+  engagement des communes, augmentation des budgets
+
+# Un tiers lieu
+
+- Notion sociologique du « troisième lieu » (*third place*, Ray Oldenburg, début des années 80)
+- Ray Oldenburg pointe du doigt la désocialisation de la société américaine 
+- Selon lui, la société manque de lieux où se rencontrer en dehors de la maison et du travail.
+  - Traditionnellement les cafés
+  - Peuvent s’appliquer à de nombreux autres endroits, comme les bibliothèques.
+
+---
+
+Les bibliothèques comme tiers lieu :
+
+- Un ancrage physique fort
+- Une vocation sociale affirmée
+- Une nouvelle approche culturelle
+
+---
+
+Certaines bibliothèques se donnent pour mission d’être des lieux de rencontres
+informelles et de convivialité
+
+- Fonctionnements participatifs
+- Créer du lien social
+- Favoriser la construction d’une société inclusive.
 
 # Bibliographie
 
