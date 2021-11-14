@@ -1,6 +1,6 @@
 ---
 title: "Humanités Numériques"
-subtitle: "Cours 8 : exercises Ngram viewer"
+subtitle: "Cours 8 : exercices Ngram viewer"
 author: Loïc Grobol
 date: 2021-11-09
 lang: fr-FR

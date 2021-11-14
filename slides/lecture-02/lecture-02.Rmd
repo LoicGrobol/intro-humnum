@@ -130,7 +130,7 @@ Ce que dit le document, tel qu'il est interprété par ses destinataires
 ## Contexte et construction du sens
 
 L'auteurice du document doit fournir suffisamment de contexte pour son interprétation et ses
-destinataires intégrer ce contexte pour l'interpréter de la façon prévue.
+destinataires doivent intégrer ce contexte pour l'interpréter de la façon prévue.
 
 On ne reçoit pas un document administratif comme un ouvrage documentaire ou une œuvre de fiction.
 

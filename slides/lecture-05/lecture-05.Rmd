@@ -104,7 +104,7 @@ C'est une convention historique d'annotation, recyclée
 
 _E**x**tensible **M**arkup **L**anguage_
 
-- Créé en 1996 sous les auspices du *Wordl Wide Web Consortium* (W3C)
+- Créé en 1996 sous les auspices du *World Wide Web Consortium* (W3C)
 - Objectif : description structurée de tout type de données encodables comme du texte
 - Au contraire de HTML, l'ensemble des balises n'est pas prédéfini et chaque document peut définir
   les siennes
