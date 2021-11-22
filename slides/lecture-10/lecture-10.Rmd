@@ -101,7 +101,7 @@ William McCarthy, *Humanities Computing* [@mccarty2005HumanitiesComputing]
 
 - La modélisation ne permet pas de produire des connaissances nouvelles, mais aide à se poser de
   nouvelles questions (notamment ce qui ne fonctionne pas avec le modèle).
-- Démarche expérimentale (non pour valider des hypothèses, mais pour générer de nouvelles questions
+- Démarche expérimentale non pour valider des hypothèses, mais pour générer de nouvelles questions
   par des résultats négatifs.
 
 # Bibliographie

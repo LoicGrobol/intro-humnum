@@ -1,0 +1,162 @@
+---
+title: "Humanités Numériques"
+subtitle: "Cours 11 : Humanités numériques et sciences ouvertes"
+author: Loïc Grobol
+date: 2021-11-09
+lang: fr-FR
+bibliography: "../../biblio.bib"
+csl: "../association-for-computational-linguistics.csl"
+output:
+  revealjs::revealjs_presentation:
+    css: "../reveal_slides_style.css"
+    theme: white
+    highlight: pygments
+    reveal_options:
+      slideNumber: true
+      progress: true
+  pdf_document:
+    latex_engine: "lualatex"
+---
+
+[comment]: <> "LTeX: language=fr"
+
+# Sciences ouvertes
+
+- La (les) science(s) ouverte(s), *open science* ou *open research* - Mouvement visant accessibles
+  - La recherche scientifique - Les données et leur diffusion accessibles
+- *Open data* - Outils de travail collaboratif (Wikipédia, Wikiversité, Wikispecies…) et de science
+  participative (Plantnet…) - E-learning - Web social
+
+---
+
+Accessible à qui ?
+
+Tous, amateurs et professionnels. 
+
+---
+
+- Multidisciplinarité
+- Multilingualité
+- Multiculturalité
+
+On considère la science et les données comme un « bien commun ».
+
+# Un cadre juridique
+
+(en France)
+
+[Article 30 de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033202841) : 
+
+Donne un nouveau **droit** aux auteurs :p ublier en accès ouvert leurs articles après un embargo de
+6 à 12 mois, pour des recherches financées au moins à 50% sur fonds public.
+
+[L’article 6](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033202965) définit le
+principe d’ouverture par défaut pour les données administratives : données construites dans le cadre
+des missions de service public, auxquelles les données de recherche appartiennent : il crée une
+**obligation**
+
+# Une politique scientifique
+
+(aussi en France)
+
+[Plan science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/science-ouverte-50360) : La
+France s'engage pour que les résultats de la recherche scientifique soient ouverts à tous,
+chercheurs, entreprises et citoyens, sans entrave, sans délai, sans payement.
+
+## Généraliser l’accès ouvert aux publications scientifiques
+
+> L’ouverture des publications scientifiques doit devenir la pratique par défaut aussi vite que
+> possible. […] les publications issues de recherches financées au moyen
+> d’appels à projets sur fonds publics seront obligatoirement mises à disposition en accès ouvert, que
+> ce soit par la publication dans des revues ou ouvrages nativement en accès ouvert, soit par dépôt
+> dans une archive ouverte publique comme [HAL](hal.archives-ouvertes.fr).
+
+## Structurer et ouvrir les données de recherche
+
+> Faire en sorte que les données produites par la recherche publique française soient
+> progressivement structurées en conformité avec les principes **FAIR** (Facile à trouver, Accessible,
+> Interopérable, Réutilisable), préservées et, quand cela est possible, ouvertes.
+
+## S’inscrire dans une dynamique durable, européenne et internationale
+
+> Le succès de la science ouverte implique le développement de nouvelles pratiques quotidiennes pour
+> les chercheurs. Cela nécessite la définition de nouvelles compétences, le développement de
+> nouvelles formations et l’adoption de nouveaux services.
+
+## À l'échelle de l'UE
+
+Plan S :
+
+- Obligation de publiation en libre accès pour la recherche financées par des subventions publiques
+  nationaux ou européens
+- Coalition de financeurs de la (en France, l'ANR)
+
+
+## Le mouvement pour la science ouverte
+
+Les chercheureuses emploient aujourd’hui les outils numériques dans toutes les facettes de leur activité.
+
+- Outils
+- Plateformes
+- Données
+- Leurs publications nativement numériques.
+
+---
+
+Cependant, ces productions scientifiques numériques de la recherche sont souvent difficilement
+accessibles :
+
+- Ressources non publiques ou non documentées
+- Nécessité d’être abonné ou d’avoir acheté la ressource (*paywall*)
+- Formats incompatibles, voire incohérents
+
+→ L’utilisation pleinement efficace du numérique est entravée.
+
+---
+
+La science ouverte vise à corriger cette insuffisance :
+
+- Approche transversale de l’accès au travail scientifique, des visées et du partage des résultats -
+  une nouvelle façon de faire de la science, en ouvrant les processus, les codes, les méthodes, les
+  protocoles…
+
+Accès ouvert
+
+- Rend possible le mouvement de diffusion de la production scientifique sur internet
+- Lève les barrières de l’accès en maintenant toutes les protections du droit d’auteur.
+  (relativement)
+- Aussi ouvert que possible, « aussi fermé que nécessaire » (Rapport commission européenne 2016)
+
+# Humanités numériques et sciences ouvertes
+
+## Cycle de vie des données
+
+La diversité des sujets autour des données de la recherche est illustrée par leur cycle
+de vie, constitué de 6 étapes :
+
+- Création ou collecte
+- Traitement
+- Analyse
+- Préservation
+- Partage
+- Réutilisation
+
+## Les données FAIR
+
+Constat :
+
+- Le taux de réutilisation des données
+(scientifiques) est extrêmement faible
+
+Objectifs :
+
+- Améliorer les infrastructures pour permettre aux machines de retrouver les données, et aux
+  chercheureuses de les réutiliser
+- Promouvoir des principes concis et mesurables
+- Bonnes pratiques pour la gestion des données.
+
+# Bibliographie
+
+::: {#refs}
+:::

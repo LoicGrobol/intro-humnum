@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.19)  22 NOV 2021 11:43
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.19)  22 NOV 2021 21:25
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/exos-08.tex
 (/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/exos-08.tex
@@ -816,7 +816,7 @@ Here is how much of LuaTeX's memory you used:
    7 hlist, 2 vlist, 2 rule, 40 glue, 4 kern, 1 penalty, 2 glyph, 160 attribute, 53 glue_spec, 25 attribute_list, 1 write nodes
    avail lists: 1:1,2:1215,3:273,4:105,5:366,6:57,7:5029,8:48,9:270,10:4,11:39
  39102 multiletter control sequences out of 65536+600000
- 66 fonts using 20448267 bytes
+ 66 fonts using 20448343 bytes
  86i,6n,121p,348b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
 Output written on exos-08.pdf (1 page, 22491 bytes).
