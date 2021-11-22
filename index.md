@@ -60,6 +60,11 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 - [Slides 9](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-09.html)
 
+### 2021-11-23 — Lecture à distance et sciences ouvertes
+
+- [Slides 10](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-10.html)
+- [Slides 11](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-11.html)
+
 ## Licences
 
 [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)

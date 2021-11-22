@@ -65,7 +65,7 @@ humanités numériques
 
 Qualité du travail d’édition :
 
-- Choix des matériaux qu’en
+- Choix des matériaux
 - Encodage du corpus
 - Interfaces de navigation et de consultation
 
@@ -89,9 +89,9 @@ importante et la plus originale de la seconde moitié du XIXe siècle en Grande-
 
 ---
 
-Permettre aux chercheurs de visualiser en un clic des reproductions numériques d’originaux, qui
-autrement sont difficiles d'accès et d'outils de recherche (index, apparat critique, moteur de
-recherche) pour explorer le corpus.
+Permettre aux chercheureuses de visualiser en un clic des reproductions numériques d’originaux, qui
+autrement sont difficiles d'accès et d'accéder à d'outils de recherche (index, appareils critiques,
+moteur de recherche) pour explorer le corpus.
 
 # « Textualité radiante »
 
@@ -104,7 +104,7 @@ de nouveaux cadres théoriques : notamment Jerome McGann et la **textualité rad
 ---
 
 Archives hypermédias : des projets d’archives
-numériques au-delà du texte :
+numériques au-delà du texte
 
 - Donner accès au texte avec les outils du numérique
 - Donner accès au fac-similé de l’édition
