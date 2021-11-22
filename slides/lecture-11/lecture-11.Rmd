@@ -156,6 +156,64 @@ Objectifs :
 - Promouvoir des principes concis et mesurables
 - Bonnes pratiques pour la gestion des données.
 
+---
+
+13 principes qui se déclinent en un ensemble
+de caractéristiques que doivent présenter les données et les
+métadonnées pour faciliter leur découverte et leur utilisation par
+les humain⋅es **et** par les machines
+
+Référence aux trois types d’entités :
+
+- Données (ou tout objet numérique),
+- Métadonnées (informations sur l’objet numérique),
+- L’infrastructure de support (ex. moteur de recherche, plateforme de stockage, etc.).
+
+## Facile à trouver (*Findable*)
+
+Faciliter la découverte des données par les humains et les systèmes
+informatiques par une description et une indexation des
+données et des métadonnées.
+
+- F1 Les données et les métadonnées sont identifiées par un identifiant global unique et pérenne.
+- F2 Les métadonnées décrivant les données sont riches.
+- F3 Les données et les métadonnées sont enregistrées et indexées dans un dispositif permettant de
+  les rechercher.
+- F4 Les métadonnées spécifient l’identifiant de la donnée.
+
+## Accessible
+
+Stocker durablement les données et les métadonnées et à faciliter
+leur accès et/ou leur téléchargement, en spécifiant les conditions
+d’accès (accès ouvert ou restreint) et d’utilisation (licence) :
+
+- A1 Les données et les métadonnées sont accessibles par leur identifiant via un protocole de
+  communication standardisé.
+  - A1.1 Le protocole utilisé est ouvert, libre et peut être implémenté de manière universelle.
+  - A1.2 Le protocole utilisé permet l’authentification et l’autorisation si besoin.
+- A2 Les métadonnées sont accessibles même quand les données ne le sont plus.
+
+## Interopérable
+
+Intégrer les données téléchargeables, utilisables, intelligibles et combinables avec d'autres
+données :
+
+- I1 Les données et les métadonnées utilisent un langage formel, accessible, partagé et largement
+  applicable pour la représentation des connaissances.
+- I2 Les données et les métadonnées utilisent des vocabulaires qui respectent les principes FAIR.
+- I3 Les données et les métadonnées incluent des liens vers d’autres (méta)données.
+
+## Réutilisable
+
+Rendre les données réutilisables pour de futures recherches ou d’autres finalités (enseignement,
+innovation, reproduction et/ou transparence de la science) :
+
+- R1 Les données et les métadonnées ont des attributs multiples et pertinents.
+  - R1.1 Les données et les métadonnées sont mises à disposition selon une licence explicite et
+    accessible.
+  - R1.2 Les données et les métadonnées sont associées à leur provenance.
+  - R1.3 Les données et les métadonnées correspondent aux standards des communautés indiquées.
+
 # Bibliographie
 
 ::: {#refs}
