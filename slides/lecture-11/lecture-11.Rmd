@@ -22,21 +22,25 @@ output:
 
 # Sciences ouvertes
 
-- La (les) science(s) ouverte(s), *open science* ou *open research* - Mouvement visant accessibles
-  - La recherche scientifique - Les données et leur diffusion accessibles
-- *Open data* - Outils de travail collaboratif (Wikipédia, Wikiversité, Wikispecies…) et de science
-  participative (Plantnet…) - E-learning - Web social
+- La (les) science(s) ouverte(s), *open science* ou *open research*
+- Mouvement visant à rendre accessibles
+  - La recherche scientifique
+  - Les données et leur diffusion accessibles
+- *Open data*
+- Outils de travail collaboratif (Wikipédia, Wikiversité, Wikispecies…) et de science participative
+  (Plantnet…)
+- E-learning
 
 ---
 
 Accessible à qui ?
 
-Tous, amateurs et professionnels. 
+Tout le monde, amateurices et professionnel⋅es.
 
 ---
 
 - Multidisciplinarité
-- Multilingualité
+- Multilinguisme
 - Multiculturalité
 
 On considère la science et les données comme un « bien commun ».
@@ -48,13 +52,30 @@ On considère la science et les données comme un « bien commun ».
 [Article 30 de la loi n° 2016-1321 du 7 octobre 2016 pour une République
 numérique](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033202841) : 
 
-Donne un nouveau **droit** aux auteurs :p ublier en accès ouvert leurs articles après un embargo de
-6 à 12 mois, pour des recherches financées au moins à 50% sur fonds public.
+Donne un nouveau **droit** aux auteurs de publier en accès ouvert leurs articles après un embargo de
+6 (sciences de la nature et sciences formelles) à 12 (LSHS) mois, pour des recherches financées au
+moins à 50% sur fonds public.
+
+---
 
 [L’article 6](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033202965) définit le
 principe d’ouverture par défaut pour les données administratives : données construites dans le cadre
 des missions de service public, auxquelles les données de recherche appartiennent : il crée une
 **obligation**
+
+---
+
+En pratique : suivant les champs de recherche, les implémentations sont variables
+
+- *Gold open access*
+- *Green open access*
+- Publications « hybrides » : modèle « auteur payeur », à des prix très
+  élevés [@vannoorden2013OpenAccessTrue]
+
+Pour la plupart des champs de recherche, le modèle *publish or perish* sert de levier aux éditeurs
+pour capter indirectement des financements de recherche.
+
+L'ouverture des données reste un champ de bataille [@sterin2019OuvertureDonneesRecherche]
 
 # Une politique scientifique
 
@@ -88,9 +109,8 @@ chercheurs, entreprises et citoyens, sans entrave, sans délai, sans payement.
 
 Plan S :
 
-- Obligation de publiation en libre accès pour la recherche financées par des subventions publiques
-  nationaux ou européens
-- Coalition de financeurs de la (en France, l'ANR)
+- Obligation de publication en libre accès pour la recherche financées par des subventions publiques
+- Coalition de financeurs de la recherche (en France, l'ANR)
 
 
 ## Le mouvement pour la science ouverte
@@ -117,9 +137,11 @@ accessibles :
 
 La science ouverte vise à corriger cette insuffisance :
 
-- Approche transversale de l’accès au travail scientifique, des visées et du partage des résultats -
-  une nouvelle façon de faire de la science, en ouvrant les processus, les codes, les méthodes, les
+- Approche transversale de l’accès au travail scientifique, des visées et du partage des résultats
+- une nouvelle façon de faire de la science, en ouvrant les processus, les codes, les méthodes, les
   protocoles…
+
+---
 
 Accès ouvert
 
@@ -167,7 +189,7 @@ Référence aux trois types d’entités :
 
 - Données (ou tout objet numérique),
 - Métadonnées (informations sur l’objet numérique),
-- L’infrastructure de support (ex. moteur de recherche, plateforme de stockage, etc.).
+- L’infrastructure de support (moteur de recherche, plateforme de stockage…).
 
 ## Facile à trouver (*Findable*)
 
@@ -175,44 +197,45 @@ Faciliter la découverte des données par les humains et les systèmes
 informatiques par une description et une indexation des
 données et des métadonnées.
 
-- F1 Les données et les métadonnées sont identifiées par un identifiant global unique et pérenne.
-- F2 Les métadonnées décrivant les données sont riches.
-- F3 Les données et les métadonnées sont enregistrées et indexées dans un dispositif permettant de
-  les rechercher.
-- F4 Les métadonnées spécifient l’identifiant de la donnée.
+- **F1** Les données et les métadonnées sont identifiées par un identifiant global unique et
+  pérenne.
+- **F2** Les métadonnées décrivant les données sont riches.
+- **F3** Les données et les métadonnées sont enregistrées et indexées dans un dispositif permettant
+  de les rechercher.
+- **F4** Les métadonnées spécifient l’identifiant de la donnée.
 
 ## Accessible
 
-Stocker durablement les données et les métadonnées et à faciliter
-leur accès et/ou leur téléchargement, en spécifiant les conditions
-d’accès (accès ouvert ou restreint) et d’utilisation (licence) :
+Stocker durablement les données et les métadonnées et à faciliter leur accès, spécifier les
+conditions d’accès (ouvert ou restreint) et d’utilisation (licence) :
 
-- A1 Les données et les métadonnées sont accessibles par leur identifiant via un protocole de
+- **A1** Les données et les métadonnées sont accessibles par leur identifiant via un protocole de
   communication standardisé.
-  - A1.1 Le protocole utilisé est ouvert, libre et peut être implémenté de manière universelle.
-  - A1.2 Le protocole utilisé permet l’authentification et l’autorisation si besoin.
-- A2 Les métadonnées sont accessibles même quand les données ne le sont plus.
+  - **A1.2** Le protocole utilisé permet l’authentification et l’autorisation si besoin.
+  - **A1.1** Le protocole utilisé est ouvert, libre et peut être implémenté de manière universelle.
+- **A2** Les métadonnées sont accessibles même quand les données ne le sont plus.
 
 ## Interopérable
 
 Intégrer les données téléchargeables, utilisables, intelligibles et combinables avec d'autres
 données :
 
-- I1 Les données et les métadonnées utilisent un langage formel, accessible, partagé et largement
-  applicable pour la représentation des connaissances.
-- I2 Les données et les métadonnées utilisent des vocabulaires qui respectent les principes FAIR.
-- I3 Les données et les métadonnées incluent des liens vers d’autres (méta)données.
+- **I1** Les données et les métadonnées utilisent un langage formel, accessible, partagé et
+  largement applicable pour la représentation des connaissances.
+- **I2** Les données et les métadonnées utilisent des vocabulaires qui respectent les principes
+  FAIR.
+- **I3** Les données et les métadonnées incluent des liens vers d’autres (méta)données.
 
 ## Réutilisable
 
 Rendre les données réutilisables pour de futures recherches ou d’autres finalités (enseignement,
-innovation, reproduction et/ou transparence de la science) :
+innovation, reproductibilité, transparence) :
 
-- R1 Les données et les métadonnées ont des attributs multiples et pertinents.
-  - R1.1 Les données et les métadonnées sont mises à disposition selon une licence explicite et
+- **R1** Les données et les métadonnées ont des attributs multiples et pertinents.
+  - **R1.1** Les données et les métadonnées sont mises à disposition selon une licence explicite et
     accessible.
-  - R1.2 Les données et les métadonnées sont associées à leur provenance.
-  - R1.3 Les données et les métadonnées correspondent aux standards des communautés indiquées.
+  - **R1.2** Les données et les métadonnées sont associées à leur provenance.
+  - **R1.3** Les données et les métadonnées correspondent aux standards des communautés indiquées.
 
 # Bibliographie
 
