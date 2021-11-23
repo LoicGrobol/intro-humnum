@@ -81,9 +81,12 @@ chaussée d'Antin](pics/map.png)
 
 William McCarthy, *Humanities Computing* [@mccarty2005HumanitiesComputing]
 
-- Intérêt de la contrainte imposée au chercheur par le traitement numérique
-- Ce n’est pas la puissance de calcul qui est véritablement intéressante, c’est la contrainte
+- Intérêt de la contrainte imposée au chercheur par le traitement numérique - Ce n’est pas la
+puissance de calcul qui est véritablement intéressante - C’est la **contrainte**
   imposée par le traitement numérique de l’information
+
+---
+
 - Læ chercheureuse doit formaliser à la fois le matériau (le transformer en données) et le
   raisonnement mobilisé pour traiter ces données.
 - Importance de la modélisation : à la différence de Moretti ce n’est pas le modèle qui l’intéresse,
