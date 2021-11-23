@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.23)  23 NOV 2021 09:18
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.23)  23 NOV 2021 09:26
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-01.tex
 (/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-01.tex
@@ -851,7 +851,7 @@ Here is how much of LuaTeX's memory you used:
    7 hlist, 2 vlist, 2 rule, 50 glue, 4 kern, 1 penalty, 2 glyph, 293 attribute, 55 glue_spec, 44 attribute_list, 1 write nodes
    avail lists: 1:1,2:2402,3:497,4:121,5:288,6:94,7:5040,8:85,9:363,10:4,11:12
  39176 multiletter control sequences out of 65536+600000
- 65 fonts using 19450067 bytes
+ 65 fonts using 19449915 bytes
  86i,6n,121p,396b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditalic.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
 Output written on lecture-01.pdf (7 pages, 208363 bytes).
