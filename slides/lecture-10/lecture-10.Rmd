@@ -81,9 +81,9 @@ chaussée d'Antin](pics/map.png)
 
 William McCarthy, *Humanities Computing* [@mccarty2005HumanitiesComputing]
 
-- Intérêt de la contrainte imposée au chercheur par le traitement numérique - Ce n’est pas la
-puissance de calcul qui est véritablement intéressante - C’est la **contrainte**
-  imposée par le traitement numérique de l’information
+- Intérêt de la contrainte imposée au chercheur par le traitement numérique
+- Ce n’est pas la puissance de calcul qui est véritablement intéressante
+- C’est la **contrainte** imposée par le traitement numérique de l’information
 
 ---
 
