@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 11 : Humanités numériques et sciences ouvertes"
 author: Loïc Grobol
-date: 2021-11-09
+date: 2021-11-23
 lang: fr-FR
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
