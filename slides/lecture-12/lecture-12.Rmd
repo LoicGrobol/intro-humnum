@@ -1,0 +1,135 @@
+---
+title: "Humanités Numériques"
+subtitle: "Cours 12 : Phénomènes numériques, terrains numériques"
+author: Loïc Grobol
+date: 2021-11-30
+lang: fr-FR
+bibliography: "../../biblio.bib"
+csl: "../association-for-computational-linguistics.csl"
+output:
+  revealjs::revealjs_presentation:
+    css: "../reveal_slides_style.css"
+    theme: white
+    highlight: pygments
+    reveal_options:
+      slideNumber: true
+      progress: true
+  pdf_document:
+    latex_engine: "lualatex"
+---
+
+[comment]: <> "LTeX: language=fr"
+
+# Retour au manifeste
+
+Dans le manifeste des [*Digital Humanities*](https://journals.openedition.org/jda/3652)
+
+> 1\. Le tournant numérique pris par la société modifie et
+> interroge les conditions de production et de diffusion des
+> savoirs.
+
+---
+
+> 1\. **Le tournant numérique pris par la société** modifie et
+> interroge les conditions de production et de diffusion des
+> savoirs.
+
+- De quel tournant parle-t-on ?
+- Et qu'est-ce qu'il modifie d'autre ?
+
+---
+
+Transformations pour les sciences sociales
+
+- Des modes d'études
+- Des **sujets** d'étude
+
+> From cyberselves to online communities, from media war to networked inequalities, from culture to
+> social structure, sociology and our sociological imaginations are confronted by new digital
+> landscapes. [@orton-johnson2013DigitalSociologyCritical]
+
+# Phénomènes numériques
+
+- Moyens de production
+- Moyens de communication
+- Loisirs
+- Accès aux données et contenus
+- Inégalités, fracture numérique *digital divide*
+  - Sociale
+  - Géographique
+  - Générationnelle
+
+# Lieux électroniques, terrains numériques
+
+## Interfaces de communication
+
+- Messageries en ligne
+- Communication multimédia
+
+## Réseaux sociaux
+
+- Ouverts (Instagram, Twitter, Mastodon)
+- Semi-ouverts (Facebook, forums)
+- Privés (Discord, Matrix)
+- Généralistes vs. spécifiques à un medium : Twitter/Facebook vs. Instagram/TikTok
+- Liés à des espaces existants (jeux en ligne)
+- Intégrés à des réalités virtuelles (Second Life, MMO)
+
+## Communautés virtuelles
+
+S'intersectent, mais seulement partiellement avec les points précédents :
+
+- Les communautés naissent dans certains espaces, souvent généralistes
+  - IRL
+  - Réseaux sociaux
+- Mais leur cœur est un (des) intérêt(s) commun(s)
+  - Extrinsèque (hobby, activisme, projet…)
+  - Intrinsèque (appartenir à la communauté)
+
+---
+
+- Permet à la communauté d'exister sur plusieurs espaces
+  - Dédiés : groupes (par exemple sur Facebook), serveurs discord, forums…
+  - Comme une clique plus ou moins soudée sur des espaces généralistes
+
+---
+
+Certains points communs avec des communautés non-numériques :
+
+- Mécanismes similaires de construction et de dynamique de groupes
+- Corrélations avec des proximités sociodémographiques
+
+---
+
+Des différences notables :
+
+- Pas ou peu de liens géographiques
+  - L'espace numérique sert de *lieu*
+  - Conséquences sur l'émergence et la composition du groupe
+- Possibilité de fonctionner en vase semi-clos : la confrontation avec l'*out-group* est choisie
+- Appartenances très variables, possiblement très légères
+- Appartenances à un grand nombre de communautés / Communautés vastes
+
+---
+
+Travaux notables :
+
+- *My Life as a Night Elf Priest: An Anthropological Account of World of Warcraft* [@nardi2010MyLifeNight]
+- *Coming of Age in Second Life: An Anthropologist Explores the Virtually Human* [@boellstorff2015ComingAgeSecond]
+
+# Un exemple
+
+[Politiques des émotions des fans de Pokémon : (se) mobiliser par la hype et le
+sel](https://www.erudit.org/en/journals/lsp/2021-n86-lsp06205/1079493ar/)
+[@gervasoni2021PolitiquesEmotionsFans]
+
+- Lire (au moins) le résumé, l'introduction et la partie « constitution du corpus »
+- Quels liens ce travail a-t-il avec les technologies numériques ?
+- Quelles caractéristiques partage-t-il avec des travaux en humanités non-numériques ? Quelles
+  différences ?
+- Peut-on considérer qu'il s'agit d'humanités numériques ?
+
+# Bibliographie
+
+::: {#refs}
+:::
