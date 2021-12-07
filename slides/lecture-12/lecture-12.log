@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.25)  29 NOV 2021 16:08
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.12.6)  7 DEC 2021 08:49
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-12.tex
 (/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-12.tex
@@ -372,7 +372,7 @@ Package graphics Info: Driver file: luatex.def on input line 107.
 Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legacy)
 Package grffile Info: This package is an empty stub for compatibility on input line 40.
 ) (/home/runner/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/11/08 3.66 The Babel package
+Package: babel 2021/11/29 3.67 The Babel package
 (/home/runner/.TinyTeX/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
 \l@dumylang=\language2
@@ -813,13 +813,13 @@ Package rerunfilecheck Info: File `lecture-12.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19144 strings out of 477875
+ 19149 strings out of 477875
  100000,953878 words of node,token memory allocated
  1119 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 27 glue, 4 kern, 1 penalty, 2 glyph, 195 attribute, 55 glue_spec, 30 attribute_list, 1 write nodes
    avail lists: 1:1,2:2769,3:332,4:128,5:263,6:79,7:4013,8:28,9:319,10:5,11:18
- 39139 multiletter control sequences out of 65536+600000
- 61 fonts using 18924295 bytes
+ 39144 multiletter control sequences out of 65536+600000
+ 61 fonts using 18924219 bytes
  86i,6n,121p,354b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></home/runner/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
 Output written on lecture-12.pdf (3 pages, 36225 bytes).
