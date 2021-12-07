@@ -5,7 +5,7 @@ Projets Humanités Numériques 2021
 
 ## Consignes
 
-- Projet à rendre avant la fin du semestre par mail à [loic.grobol@parisnanterre.fr](loic.grobol@parisnanterre.fr)
+- Projet à rendre avant **le 14 janvier 2022 à 18h** par mail à [loic.grobol@parisnanterre.fr](loic.grobol@parisnanterre.fr)
   - En cas de problème ou de retard, tout est négociable, mais contactez moi **avant**
 - Projet individuel ou par groupe de maximum trois personnes
   - S'il y a un problème — quel qu'il soit — dans votre groupe, n'hésitez pas à m'en parler
