@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.12.6)  7 DEC 2021 08:49
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.12.7)  7 DEC 2021 09:42
  restricted system commands enabled.
 **/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-11.tex
 (/home/runner/work/intro-humnum/intro-humnum/_build/html_slides/lecture-11.tex
-LaTeX2e <2021-11-15>
+LaTeX2e <2021-11-15> patch level 1
 Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended collection.
