@@ -20,7 +20,7 @@ output:
 
 [comment]: <> "LTeX: language=fr"
 
-# L'*index thomiscus*
+# L'*index thomisticus*
 
 <https://www.corpusthomisticum.org/it/index.age>
 
@@ -68,12 +68,12 @@ Roberto Busa (1913 — 2011) était un prêtre jésuite italien spécialiste
 ---
 
 <div style= "float:center;position:relative;">
-![Roberto Busa, un homme blanc d'un certain âge en tenue ecclésiastique, pris en photo devant une étagère remplie de grands volumes : l'*index thomiscus*](pics/Roberto_busa_e_index_thomisticus.jpg)
+![Roberto Busa, un homme blanc d'un certain âge en tenue ecclésiastique, pris en photo devant une étagère remplie de grands volumes : l'*index thomisticus*](pics/Roberto_busa_e_index_thomisticus.jpg)
 </div>
 
 ## La naissance des humanités numériques
 
-On identifie souvent l'*index thomiscus* comme le premier travail d'humanités numériques mené à
+On identifie souvent l'*index thomisticus* comme le premier travail d'humanités numériques mené à
 terme, même si Busa suggère que d'autres initiatives plus anciennes ont existé.
 
 Quoi qu'il en soit, c'est un travail d'une ampleur exceptionnelle pour l'époque qui a eu une
