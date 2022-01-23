@@ -6,7 +6,7 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 ## Nouvelles
 
-- 2021-12-07 : la date limite de rendu des projets est le **14 janvier 2022 à 18h**
+- 2021-12-07 : la date limite de rendu des projets est le **14 janvier 2022 à 18:00**
 - 2021-09-30 : **le cours du 5 octobre 2021 est annulé**, son report éventuel sera annoncé
   ultérieurement
 
