@@ -55,7 +55,7 @@ Roberto Busa (1913 — 2011) était un prêtre jésuite italien spécialiste
 
   > any gadget that might help [@busa1980AnnalsHumanitiesComputing]
 - Il parvient à obtenir l'aide gracieuse d'IBM pour le réaliser
-- Le projet a duré 30 ans, pour produire une transcription complète de 179 ouvrage en forme lisible
+- Le projet a duré 30 ans, pour produire une transcription complète de 179 ouvrages en forme lisible
   par des machines de l'époque (des cartes perforées !), et une lemmatisation semi-automatique.
 
 ---
