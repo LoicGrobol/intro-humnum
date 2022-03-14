@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 5 : Linguistique et Informatique partie 2"
 author: Loïc Grobol
 date: 2021-10-19
-lang: fr-FR
+lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
 output:

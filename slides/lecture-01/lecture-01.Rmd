@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 1 : Introduction"
 author: Loïc Grobol
 date: 2021-09-14
-lang: fr-FR
+lang: "fr"
 output:
   revealjs::revealjs_presentation:
     css: "../reveal_slides_style.css"

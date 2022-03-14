@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 10 : La lecture à distance"
 author: Loïc Grobol
 date: 2021-11-16
-lang: fr-FR
+lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
 output:

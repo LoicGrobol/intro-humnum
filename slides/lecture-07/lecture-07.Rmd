@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 7 : Les bibliothèques numériques"
 author: Loïc Grobol
 date: 2021-10-19
-lang: fr-FR
+lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
 output:
