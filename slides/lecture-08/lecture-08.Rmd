@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 8 : Sonder un grand corpus"
 author: Loïc Grobol
 date: 2021-11-09
-lang: fr-FR
+lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
 output:

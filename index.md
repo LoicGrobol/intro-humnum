@@ -57,7 +57,7 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 - [Slides 8](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-08.html)
 - [Exercices](https://loicgrobol.github.io/intro-humnum/html_slides/exos-08.html)
 
-### 2021-11-16 — Au delà du texte
+### 2021-11-16 — Au-delà du texte
 
 - [Slides 9](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-09.html)
 

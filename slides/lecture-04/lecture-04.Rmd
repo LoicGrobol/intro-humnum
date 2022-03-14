@@ -3,7 +3,7 @@ title: "Humanités Numériques"
 subtitle: "Cours 4 : Utiliser Voyant Tools"
 author: Loïc Grobol
 date: 2021-10-12
-lang: fr-FR
+lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
 output:
