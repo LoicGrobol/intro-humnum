@@ -10,7 +10,7 @@ Authors@R:
 Encoding: UTF-8
 Description: "Contenus pour le cours « Humanités Numériques » des licences SDL, InfoCom et Humanités de l'Université Paris Nanterre."
 Imports:
-    rcmdcheck
+    rcmdcheck,
     rmarkdown,
-    revealjs
+    revealjs,
     tinytex
