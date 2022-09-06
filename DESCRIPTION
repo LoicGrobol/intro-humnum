@@ -9,6 +9,8 @@ Authors@R:
            email = "loic.grobol@gmail.com")
 Encoding: UTF-8
 Description: "Contenus pour le cours « Humanités Numériques » des licences SDL, InfoCom et Humanités de l'Université Paris Nanterre."
-Imports: 
+Imports:
+    ggplot2
+    rcmdcheck
     rmarkdown,
     revealjs
