@@ -42,8 +42,8 @@ bundle install
 Regenerate:
 
 ```bash
-Rscript build_slides.R
 bundle exec jekyll build
+Rscript build_slides.R
 bundle exec jekyll serve
 ```
 
