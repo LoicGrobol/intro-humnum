@@ -1,5 +1,6 @@
 ---
 title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
+layout: default
 ---
 
 [comment]: <> "LTeX: language=fr"
@@ -28,47 +29,47 @@ title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
 
 ### 2021-09-14 — Introduction et manifeste des *digital humanities*
 
-- [Slides 1](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-01.html)
+- [Slides 1]({{site.url}}{{site.baseurl}}/html_slides/lecture-01.html)
 
 ### 2021-09-21 — Documents Numériques
 
-- [Slides 2](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.html)
+- [Slides 2]({{site.url}}{{site.baseurl}}/html_slides/lecture-02.html)
 
 ### 2021-09-28 — Linguistique et informatique
 
-- [Slides 3](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-03.html)
+- [Slides 3]({{site.url}}{{site.baseurl}}/html_slides/lecture-03.html)
 
 ### 2021-10-12 — Tutoriel Voyant Tools
 
-- [Slides 4](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-04.html)
+- [Slides 4]({{site.url}}{{site.baseurl}}/html_slides/lecture-04.html)
 
 ### 2021-10-19 — Corpus, Documents structurés et histoire des bibliothèques
 
-- [Slides 5](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-05.html)
-- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
+- [Slides 5]({{site.url}}{{site.baseurl}}/html_slides/lecture-05.html)
+- [Slides 6]({{site.url}}{{site.baseurl}}/html_slides/lecture-06.html)
 
 ### 2021-10-26 — Histoire des bibliothèques et bibliothèques numériques
 
-- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
-- [Slides 7](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-07.html)
+- [Slides 6]({{site.url}}{{site.baseurl}}/html_slides/lecture-06.html)
+- [Slides 7]({{site.url}}{{site.baseurl}}/html_slides/lecture-07.html)
 
 ### 2021-11-09 — *Google Ngram Viewer*
 
-- [Slides 8](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-08.html)
-- [Exercices](https://loicgrobol.github.io/intro-humnum/html_slides/exos-08.html)
+- [Slides 8]({{site.url}}{{site.baseurl}}/html_slides/lecture-08.html)
+- [Exercices]({{site.url}}{{site.baseurl}}/html_slides/exos-08.html)
 
 ### 2021-11-16 — Au-delà du texte
 
-- [Slides 9](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-09.html)
+- [Slides 9]({{site.url}}{{site.baseurl}}/html_slides/lecture-09.html)
 
 ### 2021-11-23 — Lecture à distance et sciences ouvertes
 
-- [Slides 10](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-10.html)
-- [Slides 11](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-11.html)
+- [Slides 10]({{site.url}}{{site.baseurl}}/html_slides/lecture-10.html)
+- [Slides 11]({{site.url}}{{site.baseurl}}/html_slides/lecture-11.html)
 
 ### 2021-11-30 — Phénomènes numériques, terrains numériques
 
-- [Slides 12](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-12.html)
+- [Slides 12]({{site.url}}{{site.baseurl}}/html_slides/lecture-12.html)
 
 
 ## Licences

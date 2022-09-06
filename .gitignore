@@ -8,3 +8,7 @@ vendor
 
 # local jekyll build
 _site
+
+renv
+renv.lock
+.Rprofile

@@ -1,4 +1,7 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-primer
 
 title: Introduction aux humanités numériques
 description: Contenus pour le cours « Humanités Numériques » des L2 SDL et InfoCom de l'université Paris Nanterre 
+
+url: https://loicgrobol.github.io/
+baseurl: /introhumnum/
