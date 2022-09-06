@@ -30,10 +30,19 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
 
 ## Générer le site en local
 
+Setup:
+
 ```console
+RScript setup_local.R
 gem install jekyll bundler
 bundle config set --local path 'vendor/bundle'
 bundle install
+```
+
+Regenerate:
+
+```bash
+Rscript build_slides.R
 bundle exec jekyll build
 bundle exec jekyll serve
 ```

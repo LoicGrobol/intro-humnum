@@ -33,12 +33,7 @@ jobs:
             tinytext
 
       - name: Build slides
-        run: |
-          tinytex::install_tinytex()
-          for (slide_file in Sys.glob("slides/*/*.Rmd")){
-            rmarkdown::render(slide_file, output_dir='_build/html_slides', output_format='all')
-          }
-        shell: Rscript {0}
+        run: Rscript build_slides.R
       
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
