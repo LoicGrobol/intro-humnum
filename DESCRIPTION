@@ -13,3 +13,4 @@ Imports:
     rcmdcheck
     rmarkdown,
     revealjs
+    tinytex
