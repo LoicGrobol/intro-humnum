@@ -18,6 +18,8 @@ permissions:
 env:
   # See https://github.com/r-lib/pak/issues/358
   PKGCACHE_HTTP_VERSION: 2
+  # See https://github.com/r-lib/actions/issues/208
+  GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
@@ -33,10 +35,7 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v2
 
-      - name: Install tinytex
-        run: |
-          tinytex::install_tinytex()
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-tinytex@v2
 
       - name: Build slides
         run: Rscript build_slides.R
