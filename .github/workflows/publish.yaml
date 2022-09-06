@@ -30,7 +30,12 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           extra-packages: |
-            tinytext
+            tinytex
+      
+      - name: Install tinytex
+        run: |
+          tinytex::install_tinytex()
+        shell: Rscript {0}
 
       - name: Build slides
         run: Rscript build_slides.R
