@@ -28,6 +28,16 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
   doc](https://bookdown.org/yihui/rmarkdown/compile.html) pour plus d'informations. À défaut, on
   peut également les lire comme des fichiers markdown standards.
 
+## Générer le site en local
+
+```console
+gem install jekyll bundler
+bundle config set --local path 'vendor/bundle'
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
 ## Licences
 
 [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
