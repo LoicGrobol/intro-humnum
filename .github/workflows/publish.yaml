@@ -60,8 +60,7 @@ jobs:
 
   # Deployment job
   deploy:
-    on:
-      branch: main
+    if: github.ref == 'refs/heads/main'
     # Allow one concurrent deployment
     concurrency:
       group: "pages"
