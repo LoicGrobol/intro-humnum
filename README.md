@@ -28,6 +28,36 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
   doc](https://bookdown.org/yihui/rmarkdown/compile.html) pour plus d'informations. À défaut, on
   peut également les lire comme des fichiers markdown standards.
 
+## Générer le site en local
+
+Depedencies:
+
+- R
+- pandoc
+- Ruby
+- Node w/ bundle
+
+Setup:
+
+```console
+RScript setup_local.R
+gem install jekyll bundler
+bundle config set --local path 'vendor/bundle'
+bundle install
+```
+
+Regenerate:
+
+```bash
+Rscript build_slides.R
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
+Astuce pour les pages : Jekyll n'est pas très bon pour les pages qui ne sont pas des postes de blog,
+les ajouter dans `_pages` (ce qui fonctionne parce qu'on l'a mis dans `_config.yml`)- et leur donner
+un `permalink` dans le header.
+
 ## Licences
 
 [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)

@@ -1,75 +1,36 @@
 ---
-title: Introduction aux humanités numériques — L2 SDL et InfoCom 2021
+title: Introduction aux humanités numériques
+layout: default
 ---
 
-[comment]: <> "LTeX: language=fr"
+<!-- LTeX: language=fr -->
+
+Introduction aux humanités numériques
+=====================================
 
 ## Nouvelles
 
-- 2021-12-07 : la date limite de rendu des projets est le **14 janvier 2022 à 18:00**
-- 2021-09-30 : **le cours du 5 octobre 2021 est annulé**, son report éventuel sera annoncé
-  ultérieurement
+- Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
 
 ## Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
-- **Où** Salle 200, bâtiment Paul Ricœur
-- **Quand** 12 séances, les mardis de 10:30 à 12:00, du 14/09 au 14/12
+- **Où** Salle R15, bâtiment Paul Ricœur, Université Paris Nanterre
+- **Quand** 12 séances, les mardis de 10:30 à 12:00, du 13/09 au 13/12
   - Voir [le calendrier de
-    l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire-2021-2022-1018180.kjsp)
+    l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire/calendrier-universitaire-2022-2023)
     pour les dates de vacances.
-- **Contact** Loïc Grobol [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
+- **Contact** Loïc Grobol [<lgrobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
 
 ## Liens
 
-- [Consignes pour les projets](doc/projets.md)
+- [Page du cours de l'an dernier]({{site.url}}{{site.baseurl}}/2021)
 
 ## Séances
 
-### 2021-09-14 — Introduction et manifeste des *digital humanities*
+### 2022-09-13 — Introduction et manifeste des *digital humanities*
 
-- [Slides 1](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-01.html)
-
-### 2021-09-21 — Documents Numériques
-
-- [Slides 2](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.html)
-
-### 2021-09-28 — Linguistique et informatique
-
-- [Slides 3](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-03.html)
-
-### 2021-10-12 — Tutoriel Voyant Tools
-
-- [Slides 4](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-04.html)
-
-### 2021-10-19 — Corpus, Documents structurés et histoire des bibliothèques
-
-- [Slides 5](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-05.html)
-- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
-
-### 2021-10-26 — Histoire des bibliothèques et bibliothèques numériques
-
-- [Slides 6](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-06.html)
-- [Slides 7](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-07.html)
-
-### 2021-11-09 — *Google Ngram Viewer*
-
-- [Slides 8](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-08.html)
-- [Exercices](https://loicgrobol.github.io/intro-humnum/html_slides/exos-08.html)
-
-### 2021-11-16 — Au-delà du texte
-
-- [Slides 9](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-09.html)
-
-### 2021-11-23 — Lecture à distance et sciences ouvertes
-
-- [Slides 10](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-10.html)
-- [Slides 11](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-11.html)
-
-### 2021-11-30 — Phénomènes numériques, terrains numériques
-
-- [Slides 12](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-12.html)
-
+- [Slides]({{site.url}}{{site.baseurl}}/html_slides//01-intro_manifeste.html)
 
 ## Licences
 
