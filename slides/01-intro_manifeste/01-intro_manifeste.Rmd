@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 1 : Introduction"
 author: Loïc Grobol
-date: 2021-09-14
+date: 2022-09-13
 lang: "fr"
 output:
   revealjs::revealjs_presentation:
@@ -26,19 +26,13 @@ output:
   préfère si vous m'envoyez un mail pour me prévenir)
 - De manière générale, n'hésitez pas à m'écrire
 
-## Et vous ?
-
-- Sondage très rapide : <https://lstu.stemy.me/sa6kpSNV> [^longpollurl]
-
-[^longpollurl]: <https://framaforms.org/composition-du-cours-humanites-numeriques-1631014848>
-
 # Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
 - **Où** Salle 200, bâtiment Paul Ricœur
-- **Quand** 12 séances, les mardis de 10:30 à 12:00, du 14/09 au 14/12
+- **Quand** 12 séances, les mardis de 10:30 à 12:00, du 13/09 au 13/12
   - Voir [le calendrier de
-    l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire-2021-2022-1018180.kjsp)
+    l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire/calendrier-universitaire-2022-2023)
     pour les dates de vacances.
 
 → Travail sur machine fréquent, amener si possible un PC portable

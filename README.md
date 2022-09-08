@@ -30,6 +30,13 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
 
 ## Générer le site en local
 
+Depedencies:
+
+- R
+- pandoc
+- Ruby
+- Node w/ bundle
+
 Setup:
 
 ```console
@@ -42,10 +49,14 @@ bundle install
 Regenerate:
 
 ```bash
-bundle exec jekyll build
 Rscript build_slides.R
+bundle exec jekyll build
 bundle exec jekyll serve
 ```
+
+Astuce pour les pages : Jekyll n'est pas très bon pour les pages qui ne sont pas des postes de blog,
+les ajouter dans `_pages` (ce qui fonctionne parce qu'on l'a mis dans `_config.yml`)- et leur donner
+un `permalink` dans le header.
 
 ## Licences
 

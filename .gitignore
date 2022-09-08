@@ -6,6 +6,8 @@ vendor
 .jekyll-cache
 .bundle
 
+html_slides
+
 # local jekyll build
 _site
 

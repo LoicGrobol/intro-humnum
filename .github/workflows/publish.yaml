@@ -37,6 +37,8 @@ jobs:
 
       - uses: r-lib/actions/setup-tinytex@v2
 
+      - name: Build slides
+        run: Rscript build_slides.R
       
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -51,9 +53,6 @@ jobs:
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} # defaults output to '/_site'
-      
-      - name: Build slides
-        run: Rscript build_slides.R
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1 # This will automatically upload an artifact from the '/_site' directory

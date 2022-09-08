@@ -1,3 +1,9 @@
+---
+title: Projets 2021
+layout: default
+permalink: /2021/projets
+---
+
 [comment]: <> "LTeX: language=fr"
 
 Projets Humanités Numériques 2021
