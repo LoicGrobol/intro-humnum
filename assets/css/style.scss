@@ -9,8 +9,14 @@
 $serif      : Libertinus, Georgia, Times, serif;
 $sans-serif : "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Fira Mono, Julia Mono, Consolas, "Lucida Console", monospace;
+$linkColor: #6F00FF;
 
 $body-font: $sans-serif;
 $mono-font: $monospace;
+
+
+a {
+    color: $linkColor !important;
+}
 
 @import "{{ site.theme }}";

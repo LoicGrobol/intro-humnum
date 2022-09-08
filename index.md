@@ -5,8 +5,10 @@ layout: default
 
 <!-- LTeX: language=fr -->
 
-Introduction aux humanités numériques
-=====================================
+[📚 Introduction aux humanités numériques 📚][1]
+=================================================
+
+[1]: {{site.url}}{{site.baseurl}}/
 
 ## Nouvelles
 
