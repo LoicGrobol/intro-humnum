@@ -22,7 +22,7 @@ layout: default
   - Voir [le calendrier de
     l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire/calendrier-universitaire-2022-2023)
     pour les dates de vacances.
-- **Contact** Loïc Grobol [<lgrobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
+- **Contact** [Loïc Grobol](https://lgrobol.eu) \<[lgrobol@parisnanterre.fr](mailto:loic.grobol@parisnanterre.fr)\>
 
 ## Liens
 
@@ -36,9 +36,7 @@ layout: default
 
 ## Licences
 
-[![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-Copyright © 2021 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com)
+Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 Sauf indication contraire, les fichiers présents dans ce dépôt sont distribués selon les termes de
 la licence [Creative Commons Attribution 4.0
