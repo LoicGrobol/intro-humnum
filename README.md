@@ -35,7 +35,7 @@ Depedencies:
 - R
 - pandoc
 - Ruby
-- Node w/ bundle
+  - Bundle
 
 Setup:
 

@@ -26,6 +26,9 @@ layout: default
 
 ## Liens
 
+- [Espace Cours en Ligne](https://coursenligne.parisnanterre.fr/course/view.php?id=4735)
+  - Inscription libre avec la clé `turing`
+  - Attention, cet espace ne sert qu'aux dépôts de devoirs.
 - [Page du cours de l'an dernier]({{site.url}}{{site.baseurl}}/2021)
 
 ## Séances
