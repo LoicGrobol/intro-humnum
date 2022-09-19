@@ -40,7 +40,12 @@ layout: default
 ### 2022-09-13 — Introduction et manifeste des *digital humanities*
 
 - [Slides Introduction et manifeste des *digital
-  humanities*]({{site.url}}{{site.baseurl}}/html_slides//01-intro_manifeste.html)
+  humanities*]({{site.url}}{{site.baseurl}}/html_slides/01-intro_manifeste.html)
+
+### 2022-09-20 — Documents numériques
+
+- [Slides Documents
+  numériques]({{site.url}}{{site.baseurl}}/html_slides/02-documents_numeriques.html)
 
 ## Licences
 

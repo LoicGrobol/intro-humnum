@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 2 : Documents Numériques"
 author: Loïc Grobol
-date: 2021-09-21
+date: 2022-09-20
 lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
@@ -59,8 +59,8 @@ Est-ce satisfaisant ?
   droit, en histoire, en informatique, en documentation…
 - Historiquement la conjonction de deux éléments : un **support** matériel et un **contenu**
   informationnel.
-- Définition actualisée : un « ensemble cohérent, stable et fini d’informations structurées et
-  lisibles, à usage défini, quel qu’en soit le support »
+- Définition actualisée : un « ensemble cohérent, stable et fini d'informations structurées et
+  lisibles, à usage défini, quel qu'en soit le support »
   [@lecoadic2008DictionnaireEncyclopediqueInformation]
 
 ## Le document numérique
@@ -109,10 +109,10 @@ générer plusieurs vues
 
 Par exemple ces slides :
 
-- [Source](https://github.com/LoicGrobol/intro-humnum/blob/main/slides/lecture-02/lecture-02.Rmd)
-- [Pdf](https://loicgrobol.github.io/intro-humnum/html_slides/lecture-02.pdf)
+- [Source](https://github.com/LoicGrobol/intro-humnum/blob/main/slides/02-documents_numeriques/02-documents_numeriques.Rmd)
+- [Pdf](https://loicgrobol.github.io/intro-humnum/html_slides/02-documents_numeriques.pdf)
 
-. . .
+---
 
 > Un document numérique est un ensemble de données organisées selon une structure stable associée à
 > des règles de mise en forme permettant une lisibilité partagée entre son concepteur et ses
