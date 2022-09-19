@@ -12,7 +12,9 @@ layout: default
 
 ## Nouvelles
 
-- Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
+- **2022-09-19** Les [consignes pour les projets 2022]({{site.url}}{{site.baseurl}}/projets) sont
+  disponibles.
+- *2022-09-13** Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
 
 ## Infos pratiques
 
@@ -22,30 +24,37 @@ layout: default
   - Voir [le calendrier de
     l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire/calendrier-universitaire-2022-2023)
     pour les dates de vacances.
-- **Contact** [Loïc Grobol](https://lgrobol.eu) \<[lgrobol@parisnanterre.fr](mailto:loic.grobol@parisnanterre.fr)\>
+- **Contact** [Loïc Grobol](https://lgrobol.eu)
+  \<[lgrobol@parisnanterre.fr](mailto:loic.grobol@parisnanterre.fr)\>
 
 ## Liens
 
 - [Espace Cours en Ligne](https://coursenligne.parisnanterre.fr/course/view.php?id=4735)
   - Inscription libre avec la clé `turing`
   - Attention, cet espace ne sert qu'aux dépôts de devoirs.
+- [Consignes pour les projets]({{site.url}}{{site.baseurl}}/projets)
 - [Page du cours de l'an dernier]({{site.url}}{{site.baseurl}}/2021)
 
 ## Séances
 
 ### 2022-09-13 — Introduction et manifeste des *digital humanities*
 
-- [Slides]({{site.url}}{{site.baseurl}}/html_slides//01-intro_manifeste.html)
+- [Slides Introduction et manifeste des *digital
+  humanities*]({{site.url}}{{site.baseurl}}/html_slides//01-intro_manifeste.html)
 
 ## Licences
 
-Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY Licence badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
+Licence
+badge](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 Sauf indication contraire, les fichiers présents dans ce dépôt sont distribués selon les termes de
 la licence [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/). Voir [le README](README.md#Licences)
 pour plus de détails.
 
- Un résumé simplifié de cette licence est disponible à <https://creativecommons.org/licenses/by/4.0/>.
+ Un résumé simplifié de cette licence est disponible à
+ <https://creativecommons.org/licenses/by/4.0/>.
 
- Le texte intégral de cette licence est disponible à <https://creativecommons.org/licenses/by/4.0/legalcode>
+ Le texte intégral de cette licence est disponible à
+ <https://creativecommons.org/licenses/by/4.0/legalcode>
