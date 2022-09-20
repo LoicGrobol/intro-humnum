@@ -12,6 +12,8 @@ layout: default
 
 ## Nouvelles
 
+- **2022-09-20** À partir de la semaine prochaine et jusqu'à la fin du semestre, le cours aura lieu
+  en salle L318.
 - **2022-09-19** Les [consignes pour les projets 2022]({{site.url}}{{site.baseurl}}/projets) sont
   disponibles.
 - **2022-09-13** Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
@@ -19,7 +21,7 @@ layout: default
 ## Infos pratiques
 
 - **Quoi** « Humanités Numériques » 4L3SC01P
-- **Où** Salle R15, bâtiment Paul Ricœur, Université Paris Nanterre
+- **Où** Salle L318, bâtiment Paul Ricœur, Université Paris Nanterre
 - **Quand** 12 séances, les mardis de 10:30 à 12:00, du 13/09 au 13/12
   - Voir [le calendrier de
     l'université](https://etudiants.parisnanterre.fr/calendrier-universitaire/calendrier-universitaire-2022-2023)
