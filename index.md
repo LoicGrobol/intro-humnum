@@ -14,7 +14,7 @@ layout: default
 
 - **2022-09-19** Les [consignes pour les projets 2022]({{site.url}}{{site.baseurl}}/projets) sont
   disponibles.
-- *2022-09-13** Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
+- **2022-09-13** Premier cours de cette session le mardi 13 septembre 2022. *Be there and beware!*
 
 ## Infos pratiques
 

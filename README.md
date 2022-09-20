@@ -30,7 +30,7 @@ Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr
 
 ## Générer le site en local
 
-Depedencies:
+Dependencies:
 
 - R
 - pandoc
