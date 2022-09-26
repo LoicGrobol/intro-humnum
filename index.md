@@ -49,6 +49,10 @@ layout: default
 - [Slides Documents
   numériques]({{site.url}}{{site.baseurl}}/html_slides/02-documents_numeriques.html)
 
+### 2022-09-26 — Linguistique et Informatique
+
+- [Slides Linguistique et Informatique]({{site.url}}{{site.baseurl}}/html_slides/03-linguistique_informatique.html)
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
