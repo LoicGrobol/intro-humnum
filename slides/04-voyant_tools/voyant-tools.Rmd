@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 4 : Utiliser Voyant Tools"
 author: Loïc Grobol
-date: 2021-10-12
+date: 2022-10-11
 lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
@@ -105,7 +105,7 @@ visualisation de textes numériques. [@rockwell2016HermeneuticaComputerAssistedI
 
 ---
 
-Observez le nuage de mots précédent et disponible également à [https://lstu.stemy.me/mary](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Cirrus).
+Observez le nuage de mots précédent et disponible également à [https://page.hn/fwxr07](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=Cirrus).
 
 - Que représente ce nuage, à votre avis ?
 - Parmi ses caractéristique
@@ -123,7 +123,7 @@ Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage
 ## `Termes`/`Terms`
 
 La [table des
-fréquences](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=DocumentTerms)
+fréquences](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=DocumentTerms)
 
 ---
 
@@ -135,19 +135,19 @@ Avec-vous vu :
 
 ## Lecteur/Reader
 
-[L'affichage complet](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&view=Reader)
+[L'affichage complet](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=Reader)
 
 - Que se passe-t-il si vous survolez un mot, si vous le sélectionnez ?
 - Que représente la frise située sous le texte ?
-- Avez-vous testé les fonctions de requête ?
+- Avez-vous testé les fonctions de requête ? Comment sont répartis les mots commençant par « death » dans ce texte ?
 
 ## `Contextes`/`Contexts`
 
 [Le
-concordancier](https://voyant-tools.huma-num.fr/?corpus=084f1ee1a8ff6e370da5b98a3d19a71b&query=father&view=Contexts)
+concordancier](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&query=father&view=Contexts)
 (du type Keyword in Context, KWIC).
 
-- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ?
+- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ? À quoi sert-il ?
 - Un menu vous donne la possibilité de restreindre le corpus à certains documents.
 
 ## Autres outils
@@ -232,7 +232,7 @@ en fonction de la configuration de votre système).
 
 [La page de Wikipédia réputée la plus longue](https://en.wikipedia.org/wiki/List_of_compositions_by_Franz_Schubert)
 
-Cette page requiert clairement la liste de mots vides « Multilingue », n’est-ce pas ?
+Cette page requiert clairement la liste de mots vides « Multilingue », pourquoi ?
 
 ---
 
@@ -248,8 +248,8 @@ Français moderne : Lautréamont, [*Les Chants de Maldoror*](http://athena.unig
 Moyen français : Rabelais,
 [*Pantagruel*](http://athena.unige.ch/athena/rabelais/rabelais-pantagruel.html)
 
-- Observer les distributions des noms propres Pantagruel et Panurge.
-- Trouver une bonne liste de mots vide n'est pas forcément évident ici
+- Observer les distributions des noms propres Pantagruel et Panurge. Que remarquez-vous ?
+- Trouver une bonne liste de mots vide n'est pas forcément évident ici. Pourquoi à votre avis ?
 
 ---
 

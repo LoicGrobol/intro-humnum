@@ -56,6 +56,11 @@ layout: default
 
 ### 2022-10-04 — Cours annulé
 
+### 2022-10-10 — Voyant tools
+
+- [Slides Linguistique et Informatique]({{site.url}}{{site.baseurl}}/html_slides/03-linguistique_informatique.html)
+- [Slides Voyant Rools]({{site.url}}{{site.baseurl}}/html_slides/voyant-tools.html)
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
