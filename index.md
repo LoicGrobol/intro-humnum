@@ -56,7 +56,7 @@ layout: default
 
 ### 2022-10-04 — Cours annulé
 
-### 2022-10-10 — Voyant tools
+### 2022-10-11 — Voyant tools
 
 - [Slides Linguistique et Informatique]({{site.url}}{{site.baseurl}}/html_slides/03-linguistique_informatique.html)
 - [Slides Voyant Tools]({{site.url}}{{site.baseurl}}/html_slides/voyant-tools.html)
