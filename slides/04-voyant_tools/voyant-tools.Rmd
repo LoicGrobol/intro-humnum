@@ -131,8 +131,10 @@ fréquences](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0
 Avec-vous vu :
 
 - Les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur les flèches) ?
+  - Que signifie ici « spécificité », d'après vous ?
 - Les *sparklines*, qui résument dans la colonne de droite les tendances des termes au fil du
   texte ?
+  - Quel(s) usages imaginez-vous pour un tel outil ?
 
 ## Lecteur/Reader
 
@@ -276,7 +278,11 @@ certaines vues ou listes.
 
 ### Import depuis une archive zip
 
-Français, espagnol et anglais : [*Digital Humanities Quarterly* 12.1](http://www.digitalhumanities.org/dhq/vol/12/1/), numéro de revue sur les humanités numériques hispanophones et francophones, en accès libre (licence CC-BY-ND) à charger en version nettoyée depuis [le dépôt](https://github.com/aurelberra/voyant_tools/blob/master/data/dhq_12_1_xml.zip?raw=true)
+Français, espagnol et anglais : [*Digital Humanities Quarterly*
+12.1](http://www.digitalhumanities.org/dhq/vol/12/1/), numéro de revue sur les humanités numériques
+hispanophones et francophones, en accès libre (licence CC-BY-ND) à charger en version nettoyée
+depuis [le
+dépôt](https://github.com/aurelberra/voyant_tools/blob/master/data/dhq_12_1_xml.zip?raw=true)
 
 - Comme précédemment, sélectionnez la liste de stopwords « Multilingue ».
 - Il est utile d’éditer la liste pour filtrer des termes comme « http », « *digital* » et
