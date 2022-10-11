@@ -140,7 +140,8 @@ Observez :
 
 - Que se passe-t-il si vous survolez un mot ? si vous le sélectionnez ?
   - Que représente alors la frise située sous le texte ?
-- Testez les fonctions de reauêtes (champ de texte en bas à gauche) : Comment sont répartis les mots commençant par « death » dans ce texte ?
+- Testez les fonctions de requêtes (champ de texte en bas à gauche) : Comment sont répartis les mots
+commençant par « death » dans ce texte ?
 
 ## `Contextes`/`Contexts`
 
