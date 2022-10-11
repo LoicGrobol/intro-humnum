@@ -138,7 +138,7 @@ Observez :
 
 [L'affichage complet](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=Reader)
 
-- Que se passe-t-il si vous survolez un mot ? si vous le sélectionnez ?
+- Que se passe-t-il si vous passez votre curseur sur un mot ? si vous le sélectionnez ?
   - Que représente alors la frise située sous le texte ?
 - Testez les fonctions de requêtes (champ de texte en bas à gauche) : Comment sont répartis les mots
 commençant par « death » dans ce texte ?
