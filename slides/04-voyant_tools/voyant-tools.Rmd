@@ -119,6 +119,7 @@ Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage
 
 - Changez le nombre de termes pris en compte au moyen du curseur
 - Modifiez la liste des mots vides filtrés en accédant aux options (icône en haut à droite)
+  - Que se passe-t-il quand on ne filtre rien ?
 
 ## `Termes`/`Terms`
 
@@ -256,7 +257,7 @@ Moyen français : Rabelais,
 ### Import de fichiers TXT
 
 Latin : César, *La Guerre des Gaules*
-  ([fichier](https://github.com/aurelberra/voyant_tools/blob/master/data/caesar_bellum_gallicum.txt))
+  ([fichier](https://raw.githubusercontent.com/aurelberra/voyant_tools/master/data/caesar_bellum_gallicum.txt))
 
 Sélectionnez bien sûr les mots vides de la liste « Latin ». Voyez que, faute de lemmatisation, les
 formes du nom de César (« *caesar*, *caesarem* ») ou des mots signifiant « camp » et « ennemis »
@@ -265,7 +266,7 @@ formes du nom de César (« *caesar*, *caesarem* ») ou des mots signifiant
 ---
 
 Latin : César, *La Guerre des Gaules*, texte lemmatisé
-  ([fichier](https://github.com/aurelberra/voyant_tools/blob/master/data/caesar_bellum_gallicum_lem.txt))
+  ([fichier](https://raw.githubusercontent.com/aurelberra/voyant_tools/master/data/caesar_bellum_gallicum_lem.txt))
 
 Sans être parfaite, la lemmatisation suffit ici pour constater la différence avec le texte
 précédent. Pour vous en assurer, vous pouvez charger les textes dans deux fenêtres et exporter
@@ -275,7 +276,7 @@ certaines vues ou listes.
 
 ### Import depuis une archive zip
 
-Français, espagnol et anglais : [*Digital Humanities Quarterly* 12.1](http://www.digitalhumanities.org/dhq/vol/12/1/), numéro de revue sur les humanités numériques hispanophones et francophones, en accès libre (licence CC-BY-ND) à charger en version nettoyée depuis [le dépôt](https://github.com/aurelberra/voyant_tools/blob/master/data/dhq_12_1_xml.zip)
+Français, espagnol et anglais : [*Digital Humanities Quarterly* 12.1](http://www.digitalhumanities.org/dhq/vol/12/1/), numéro de revue sur les humanités numériques hispanophones et francophones, en accès libre (licence CC-BY-ND) à charger en version nettoyée depuis [le dépôt](https://github.com/aurelberra/voyant_tools/blob/master/data/dhq_12_1_xml.zip?raw=true)
 
 - Comme précédemment, sélectionnez la liste de stopwords « Multilingue ».
 - Il est utile d’éditer la liste pour filtrer des termes comme « http », « *digital* » et
