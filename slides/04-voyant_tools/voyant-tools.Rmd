@@ -126,12 +126,10 @@ Quand vous aurez réfléchi à ces questions, manipulez les paramètres du nuage
 La [table des
 fréquences](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=DocumentTerms)
 
----
-
 Avec-vous vu :
 
-- Les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur les flèches) ?
-  - Que signifie ici « spécificité », d'après vous ?
+- Les colonnes cachées (survolez les en-têtes des colonnes affichées et cliquez sur la flèche à droite) ?
+  - Quelles colonnes vous sont cachées par défaut ?
 - Les *sparklines*, qui résument dans la colonne de droite les tendances des termes au fil du
   texte ?
   - Quel(s) usages imaginez-vous pour un tel outil ?
