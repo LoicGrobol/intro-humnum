@@ -59,7 +59,7 @@ layout: default
 ### 2022-10-10 — Voyant tools
 
 - [Slides Linguistique et Informatique]({{site.url}}{{site.baseurl}}/html_slides/03-linguistique_informatique.html)
-- [Slides Voyant Rools]({{site.url}}{{site.baseurl}}/html_slides/voyant-tools.html)
+- [Slides Voyant Tools]({{site.url}}{{site.baseurl}}/html_slides/voyant-tools.html)
 
 ## Licences
 
