@@ -138,9 +138,9 @@ Observez :
 
 [L'affichage complet](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&view=Reader)
 
-- Que se passe-t-il si vous survolez un mot, si vous le sélectionnez ?
-- Que représente la frise située sous le texte ?
-- Avez-vous testé les fonctions de requête ? Comment sont répartis les mots commençant par « death » dans ce texte ?
+- Que se passe-t-il si vous survolez un mot ? si vous le sélectionnez ?
+  - Que représente alors la frise située sous le texte ?
+- Testez les fonctions de reauêtes (champ de texte en bas à gauche) : Comment sont répartis les mots commençant par « death » dans ce texte ?
 
 ## `Contextes`/`Contexts`
 
@@ -148,8 +148,8 @@ Observez :
 concordancier](https://voyant-tools.huma-num.fr/?corpus=441a840307eb65229b6375b6f0fbb560&query=father&view=Contexts)
 (du type Keyword in Context, KWIC).
 
-- Avez-vous remarqué les curseurs, en particulier celui qui se nomme « Contexte » ? À quoi sert-il ?
-- Un menu vous donne la possibilité de restreindre le corpus à certains documents.
+- Observez les curseurs, en particulier celui qui se nomme « Contexte » : à quoi sert-il ?
+- Un menu vous donne la possibilité de restreindre le corpus à certains documents. Est-il utile ici ? Pourquoi ?
 
 ## Autres outils
 
