@@ -12,7 +12,7 @@ layout: default
 
 ## Nouvelles
 
-- **2022-10-17** Le cours du 18/10/2022 est annulé pour cause grève
+- **2022-10-17** Le cours du 18/10/2022 est annulé pour cause de grève
 - **2022-10-04** Le cours du 04/10/2022 est annulé pour cause de COVID
 - **2022-09-20** À partir de la semaine prochaine et jusqu'à la fin du semestre, le cours aura lieu
   en salle L318.
