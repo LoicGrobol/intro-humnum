@@ -351,6 +351,49 @@ informelles et de convivialité
 - Créer du lien social
 - Favoriser la construction d’une société inclusive.
 
+# Les bibliothèques numériques
+
+- Années 1970 : l'informatique : numériser les ouvrages
+- Années 1980 : Numérisation patrimoniale
+- Apparition d'Internet : Développement des Bibliothèques en ligne
+
+---
+
+> Un ensemble de ressources numériques et technologies associées pour créer, repérer et utiliser
+> l'information ; les bibliothèques incluent des données, métadonnées et liens (métadonnées) vers
+> d'autres ressources  
+> [@dasylva2013GeneseDescriptionBibliotheques]
+
+---
+
+Quels points communs avec les bibliothèques historiques ? Quelles différences ?
+
+# Projets
+
+## Grandes bibliothèques publiques
+
+- [Gallica](http://gallica.bnf.fr/)
+- [*Online Gallery*](http://www.bl.uk/onlinegallery)
+- [*American Memory*](http://memory.loc.gov/ammem/index.html)
+- [*Trove*](http://trove.nla.gov.au/)
+
+## Grands projets internationaux publics
+
+- [*Europeana*](http://www.europeana.eu)
+- [*World Digital Library*](http://www.wdl.org/fr/)
+
+## Grands projets de numérisation privés et associatifs
+
+- [Projet Gutenberg](http://www.gutenberg.org)
+- [Wikisource](http://fr.wikisource.org) et [Wikimedia Commons](https://commons.wikimedia.org)
+- [Internet Archive](http://www.archive.org)
+- [Google Livres](http://books.google.fr)
+
+## Projets clandestins
+
+- [*Z library*](https://z-lib.org/)
+- [*Library Genesis*](libgen.is)
+
 # Bibliographie
 
 ::: {#refs}

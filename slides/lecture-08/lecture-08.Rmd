@@ -20,6 +20,13 @@ output:
 
 [comment]: <> "LTeX: language=fr"
 
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
+https://shiny.ens-paris-saclay.fr/app/gallicagram
 # Google Books
 
 - Collection multilingue de livres de 1500 à 2008
