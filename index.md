@@ -68,6 +68,10 @@ layout: default
 
 - [Slides Bibliothèques]({{site.url}}{{site.baseurl}}/html_slides/bibliotheques.html)
 
+Pour la prochaine fois : à partir des liens de la dernière partie (bibliothèques numériques) de
+rédiger un paragraphe (qui n'est pas à rendre, simplement un entraînement) résumant les différences
+et similarités entre bibliothèques numériques et bibliothèques historiques.
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
