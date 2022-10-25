@@ -66,7 +66,7 @@ layout: default
 
 ### 2022-10-24 — Bibliothèques
 
-- [Slides Bibliothèques]({{site.url}}{{site.baseurl}}html_slides/bibliotheques.html)
+- [Slides Bibliothèques]({{site.url}}{{site.baseurl}}/html_slides/bibliotheques.html)
 
 ## Licences
 
