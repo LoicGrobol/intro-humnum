@@ -12,7 +12,8 @@ layout: default
 
 ## Nouvelles
 
-- **2022-10-04** Le cours du 04/10/203 est annulé pour cause de COVID
+- **2022-10-17** Le cours du 18/10/2022 est annulé pour cause de grève
+- **2022-10-04** Le cours du 04/10/2022 est annulé pour cause de COVID
 - **2022-09-20** À partir de la semaine prochaine et jusqu'à la fin du semestre, le cours aura lieu
   en salle L318.
 - **2022-09-19** Les [consignes pour les projets 2022]({{site.url}}{{site.baseurl}}/projets) sont
@@ -64,6 +65,8 @@ layout: default
 ### 2022-10-24 — Bibliothèques
 
 - [Slides Bibliothèques]({{site.url}}{{site.baseurl}}/html_slides/03-linguistique_informatique.html)
+
+### 2022-10-17 — Cours annulé
 
 ## Licences
 
