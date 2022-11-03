@@ -69,6 +69,8 @@ humanités numériques.
    - Qu’est-ce qui est fait pour que les données/documents soient réutilisables ?
 4. Avis personnels (quels avantages, quelles difficultés).
 
+[Exemple de projet]({{site.url}}{{site.baseurl}}/assets/documents/analyse.pdf).
+
 #### Propositions de projets à traiter
 
 Vous pouvez (mais ce n'est pas une obligation) piocher un projet à traiter parmi la liste suivante :
