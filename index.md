@@ -72,6 +72,11 @@ Pour la prochaine fois : à partir des liens de la dernière partie (biblioth�
 rédiger un paragraphe (qui n'est pas à rendre, simplement un entraînement) résumant les différences
 et similarités entre bibliothèques numériques et bibliothèques historiques.
 
+### 2022-11-08 – Bibliothèques numériques et Goole n-grams viewer
+
+- [Slides n-grams]({{site.url}}{{site.baseurl}}/html_slides/ngrams.html)
+- [Exercices n-grams]({{site.url}}{{site.baseurl}}/html_slides/exos-ngrams.html)
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY

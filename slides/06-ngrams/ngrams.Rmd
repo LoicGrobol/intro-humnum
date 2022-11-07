@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 8 : Sonder un grand corpus"
 author: Loïc Grobol
-date: 2021-11-09
+date: 2022-11-08
 lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
@@ -20,13 +20,7 @@ output:
 
 [comment]: <> "LTeX: language=fr"
 
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
-https://shiny.ens-paris-saclay.fr/app/gallicagram
+
 # Google Books
 
 - Collection multilingue de livres de 1500 à 2008
@@ -156,7 +150,7 @@ relatives](https://books.google.com/ngrams/graph?content=cette+ann%C3%A9e%2Cl%27
 
 Utiliser les opérateurs `*` et `/` :
 
-[`ouvrier,travailleur,(prolétaire*10)`](https://books.google.com/ngrams/graph?content=cette+ann%C3%A9e%2Cl%27ann%C3%A9e+derni%C3%A8re%2Cl%27ann%C3%A9e+prochaine&year_start=1990&year_end=2019&corpus=30&smoothing=3&direct_url=t1%3B%2Ccette%20ann%C3%A9e%3B%2Cc0%3B.t1%3B%2Cl%27%20ann%C3%A9e%20derni%C3%A8re%3B%2Cc0%3B.t1%3B%2Cl%27%20ann%C3%A9e%20prochaine%3B%2Cc0)
+[`ouvrier,travailleur,(prolétaire*10)`](https://books.google.com/ngrams/graph?content=ouvrier%2Ctravailleur%2C%28prol%C3%A9taire*10%29&year_start=1800&year_end=2019&corpus=30&smoothing=3)
 
 [`(ouvrier/10),(travailleur/10),prolétaire`](https://books.google.com/ngrams/graph?content=%28ouvrier%2F10%29%2C%28travailleur%2F10%29%2Cprol%C3%A9taire&year_start=1800&year_end=2019&corpus=30&smoothing=3&direct_url=t1%3B%2C%28ouvrier%20/%2010%29%3B%2Cc0%3B.t1%3B%2C%28travailleur%20/%2010%29%3B%2Cc0%3B.t1%3B%2Cprol%C3%A9taire%3B%2Cc0)
 
@@ -168,7 +162,7 @@ Sans surprise avec `+` et `-` :
 
 [`(United States is-United States are)`](https://books.google.com/ngrams/graph?content=%28United+States+is-United+States+are%29&year_start=1800&year_end=2019&corpus=28&smoothing=3&direct_url=t1%3B%2C%28United%20States%20is%20-%20United%20States%20are%29%3B%2Cc0)
 
-[`(Bigfoot+Sasquatch),Yeti](https://books.google.com/ngrams/graph?content=%28Bigfoot%2BSasquatch%29%2CYeti&year_start=1800&year_end=2019&corpus=28&smoothing=3&direct_url=t1%3B%2C%28Bigfoot%20%2B%20Sasquatch%29%3B%2Cc0%3B.t1%3B%2CYeti%3B%2Cc0)
+[`(Bigfoot+Sasquatch),Yeti`](https://books.google.com/ngrams/graph?content=%28Bigfoot%2BSasquatch%29%2CYeti&year_start=1800&year_end=2019&corpus=28&smoothing=3&direct_url=t1%3B%2C%28Bigfoot%20%2B%20Sasquatch%29%3B%2Cc0%3B.t1%3B%2CYeti%3B%2Cc0)
 
 ## Catégories grammaticales
 
@@ -217,7 +211,7 @@ parle`](https://books.google.com/ngrams/graph?content=parle%3D%3Eje%2Cje+parle%2
 
 Voir [la doc](https://books.google.com/ngrams/info)
 
-- `_INF` : formes fléchies d’un verbe »> ex :
+- `_INF` : formes fléchies d’un verbe > ex :
 [`manger_INF`](https://books.google.com/ngrams/graph?content=manger_INF&year_start=1800&year_end=2019&corpus=30&smoothing=3&direct_url=t3%3B%2Cmanger_INF%3B%2Cc0%3B%2Cs0%3B%3Bmanger%3B%2Cc0%3B%3Bmange%3B%2Cc0%3B%3Bmang%C3%A9%3B%2Cc0%3B%3Bmangent%3B%2Cc0%3B%3Bmangeait%3B%2Cc0%3B%3Bmangeant%3B%2Cc0%3B%3Bmangeaient%3B%2Cc0%3B%3Bmangea%3B%2Cc0%3B%3Bmangez%3B%2Cc0%3B%3Bmang%C3%A9s%3B%2Cc0%3B%3Bmang%C3%A9e%3B%2Cc0%3B%3Bmang%C3%A8rent%3B%2Cc0%3B%3Bmangeons%3B%2Cc0%3B%3Bmangera%3B%2Cc0%3B%3Bmang%C3%A9es%3B%2Cc0%3B%3Bmangeront%3B%2Cc0%3B%3Bmanges%3B%2Cc0%3B%3Bmangerez%3B%2Cc0%3B%3Bmangeais%3B%2Cc0%3B%3Bmangerai%3B%2Cc0%3B%3Bmangions%3B%2Cc0%3B%3Bmangerait%3B%2Cc0%3B%3Bmangeras%3B%2Cc0%3B%3Bmangerons%3B%2Cc0%3B%3Bmangeai%3B%2Cc0%3B%3Bmange%C3%A2mes%3B%2Cc0%3B%3Bmangeraient%3B%2Cc0%3B%3Bmangerais%3B%2Cc0%3B%3Bmange%C3%A2t%3B%2Cc0%3B%3Bmangiez%3B%2Cc0%3B%3Bmangeassent%3B%2Cc0%3B%3Bmangers%3B%2Cc0%3B%3Bmangerions%3B%2Cc0%3B%3Bmangeriez%3B%2Cc0%3B%3Bmangeasse%3B%2Cc0%3B%3Bmangeas%3B%2Cc0%3B%3Bmange%C3%A2tes%3B%2Cc0%3B%3Bmangeassions%3B%2Cc0%3B%3Bmangeassiez%3B%2Cc0%3B%3Bmangeasses%3B%2Cc0)
 - `*` avant une catégorie grammaticale : remplace n’importe quel mot de cette catégorie
 - [`*_ADJ`](https://books.google.com/ngrams/graph?content=%2A_ADJ&year_start=1800&year_end=2019&corpus=30&smoothing=3&direct_url=t2%3B%2C%2A_ADJ%3B%2Cc0%3B%2Cs0%3B%3Bd%27_ADJ%3B%2Cc0%3B%3Bm%C3%AAme_ADJ%3B%2Cc0%3B%3Btous_ADJ%3B%2Cc0%3B%3Bautre_ADJ%3B%2Cc0%3B%3Bautres_ADJ%3B%2Cc0%3B%3Bdeux_ADJ%3B%2Cc0%3B%3Btoutes_ADJ%3B%2Cc0%3B%3Bgrand_ADJ%3B%2Cc0%3B%3Bgrande_ADJ%3B%2Cc0%3B%3Bpremier_ADJ%3B%2Cc0)
@@ -228,12 +222,17 @@ Voir [la doc](https://books.google.com/ngrams/info)
 
 # À vous de jouer !
 
-[Faire la fiche d'exercices](exos-08.html)
+[Faire la fiche d'exercices](exos-ngrams.html)
 
 <!-- # Bibliographie
 
 ::: {#refs}
 ::: -->
+
+# Gallicagram
+
+Certaines de ces fonctionnalités sont diponibles en accédant au catalogue de Gallica via
+[Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram)
 
 # Remerciements
 
