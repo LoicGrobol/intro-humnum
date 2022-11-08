@@ -77,6 +77,8 @@ et similarités entre bibliothèques numériques et bibliothèques historiques.
 - [Slides n-grams]({{site.url}}{{site.baseurl}}/html_slides/ngrams.html)
 - [Exercices n-grams]({{site.url}}{{site.baseurl}}/html_slides/exos-ngrams.html)
 
+**Exercices à rendre pour le 22/11 sur Cours en Ligne.**
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
