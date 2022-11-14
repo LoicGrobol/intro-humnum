@@ -79,6 +79,10 @@ et similarités entre bibliothèques numériques et bibliothèques historiques.
 
 **Exercices à rendre pour le 22/11 sur Cours en Ligne.**
 
+### 2022-11-15 — Au-delà du texte
+
+- [Slides au-delç du texte]({{site.url}}{{site.baseurl}}/html_slides/au_dela_texte.html)
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY
