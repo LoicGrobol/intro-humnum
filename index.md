@@ -81,7 +81,11 @@ et similarités entre bibliothèques numériques et bibliothèques historiques.
 
 ### 2022-11-15 — Au-delà du texte
 
-- [Slides au-delç du texte]({{site.url}}{{site.baseurl}}/html_slides/au_dela_texte.html)
+- [Slides au-delà du texte]({{site.url}}{{site.baseurl}}/html_slides/au_dela_texte.html)
+
+### 2022-11-22 — Sciences ouvertes, données ouvertes
+
+- [Slides sciences ouvertes, données ouvertes]({{site.url}}{{site.baseurl}}/html_slides/ouvertes.html)
 
 ## Licences
 
