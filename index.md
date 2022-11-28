@@ -87,6 +87,10 @@ et similarités entre bibliothèques numériques et bibliothèques historiques.
 
 - [Slides sciences ouvertes, données ouvertes]({{site.url}}{{site.baseurl}}/html_slides/ouvertes.html)
 
+### 2022-11-29 — Phénomènes numériques, terrains numériques
+
+- [Phénomènes numériques, terrains numériques]({{site.url}}{{site.baseurl}}/html_slides/terrains_numeriques.html)
+
 ## Licences
 
 Copyright © 2022 Loïc Grobol [\<loic.grobol@gmail.com\>](mailto:loic.grobol@gmail.com) [![CC BY

@@ -2,7 +2,7 @@
 title: "Humanités Numériques"
 subtitle: "Cours 12 : Phénomènes numériques, terrains numériques"
 author: Loïc Grobol
-date: 2021-11-30
+date: 2022-11-29
 lang: "fr"
 bibliography: "../../biblio.bib"
 csl: "../association-for-computational-linguistics.csl"
