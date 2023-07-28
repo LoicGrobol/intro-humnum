@@ -40,7 +40,7 @@ Dependencies:
 Setup:
 
 ```console
-RScript setup_local.R
+Rscript setup_local.R
 gem install jekyll bundler
 bundle config set --local path 'vendor/bundle'
 bundle install
