@@ -6,7 +6,7 @@ emojicon: 📚
 
 url: https://loicgrobol.github.io/
 baseurl: /introhumnum
-repository: "loicgrobol//introhumnum"
+repository: "loicgrobol/introhumnum"
 
 exclude:
   - renv
